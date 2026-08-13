@@ -1,0 +1,1469 @@
+location,label,original,fake
+para#12,COMPANY,KSH INTERNATIONAL LIMITED,Acme Industries Limited
+para#24,COMPANY,KSH INTERNATIONAL LIMITED,Acme Industries Limited
+para#25,COMPANY,KSH International Limited,Acme Industries Limited
+para#25,COMPANY,KSH International Private Limited,Northstar Corporation
+para#25,COMPANY,Bhandary Metal Extrusion Private Limited,Bluewater Holdings
+para#25,COMPANY,Bhandary Metal Extrusion Private Limited,Bluewater Holdings
+para#27,ADDRESS,"11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India","101 Oak Street, Fairview, ST 10001"
+para#28,ADDRESS,"201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India","102 Cedar Lane, Riverside, ST 10002"
+para#29,PHONE,91 20 4505 3237,+91 10000 00
+para#29,PERSON,Sarthak Malvadkar,John Doe
+para#30,EMAIL,cs.connect@kshinternational.com,john.parker@example.com
+para#49,COMPANY,Montreal Business Centre,Summit Enterprises Ltd.
+para#49,COMPANY,Tower 2,Vertex Global Limited
+para#49,COMPANY,KSH International Limited,Acme Industries Limited
+para#64,COMPANY,Offer Related Terms,Silverline Corp
+para#80,COMPANY,General Terms and Abbreviations,Horizon Manufacturing Ltd.
+para#94,COMPANY,Key Financial,Crestview Industries
+para#100,COMPANY,GoI,Meridian Group
+para#102,COMPANY,Financial Data,Falcon Enterprises Limited
+para#103,COMPANY,Group Companies,Ironwood Holdings
+para#105,COMPANY,ICAI,Pinnacle Corp
+para#107,COMPANY,Ind AS,Cobalt Industries Ltd.
+para#107,COMPANY,Ind AS,Cobalt Industries Ltd.
+para#110,COMPANY,Restated Financial Statements,Lakeside Manufacturing
+para#113,COMPANY,Ind AS,Cobalt Industries Ltd.
+para#113,COMPANY,Non-GAAP Measures,Redstone Group
+para#113,COMPANY,Ind AS,Cobalt Industries Ltd.
+para#113,COMPANY,Ind AS,Cobalt Industries Ltd.
+para#113,COMPANY,Ind AS,Cobalt Industries Ltd.
+para#113,COMPANY,Capital Employed,Acme Industries Limited
+para#115,COMPANY,Group Companies,Ironwood Holdings
+para#115,COMPANY,CareEdge Research,Northstar Corporation
+para#115,COMPANY,CareEdge Research,Northstar Corporation
+para#115,COMPANY,CARE Analytics and,Bluewater Holdings
+para#122,COMPANY,Indian Rupees,Summit Enterprises Ltd.
+para#122,COMPANY,INR,Vertex Global Limited
+para#123,COMPANY,United States Dollars,Silverline Corp
+para#125,COMPANY,Krona,Horizon Manufacturing Ltd.
+para#125,COMPANY,SEK,Crestview Industries
+para#127,COMPANY,Time,Meridian Group
+para#128,COMPANY,Indian Standard Time,Falcon Enterprises Limited
+para#130,COMPANY,Indian Rupees,Summit Enterprises Ltd.
+para#130,COMPANY,Indian Rupees,Summit Enterprises Ltd.
+para#142,COMPANY,Reliance,Ironwood Holdings
+para#143,COMPANY,Reliance,Ironwood Holdings
+para#145,COMPANY,Reliance,Ironwood Holdings
+para#146,COMPANY,Reliance,Ironwood Holdings
+para#151,COMPANY,Reliance,Ironwood Holdings
+para#154,COMPANY,Promoter Selling Shareholders,Pinnacle Corp
+para#154,COMPANY,Offered Shares,Cobalt Industries Ltd.
+para#154,COMPANY,Bidders,Lakeside Manufacturing
+para#154,COMPANY,Promoter Selling Shareholders,Pinnacle Corp
+para#167,PERSON,Waterloo Industrial Park VI Private Limited,John Smith
+para#167,COMPANY,Kanchenjunga Family Trust,Redstone Group
+para#167,COMPANY,Annapurna Family Trust,Acme Industries Limited
+para#167,COMPANY,Broad Family Trust,Northstar Corporation
+para#167,COMPANY,Makalu Family Trust,Bluewater Holdings
+para#167,COMPANY,Everest Family Trust,Summit Enterprises Ltd.
+para#167,COMPANY,Dhaulagiri Family Trust,Vertex Global Limited
+para#167,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#167,PERSON,Rohit Kushal Hegde,John Johnson
+para#167,PERSON,Rajesh Kushal Hegde,John Williams
+para#167,PERSON,Pushpa Kushal Hegde,John Brown
+para#167,PERSON,Kushal Subbayya Hegde,John Jones
+para#183,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#184,COMPANY,Promoter Selling Shareholders,Pinnacle Corp
+para#184,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#192,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#193,COMPANY,Equity Share,Crestview Industries
+para#193,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#193,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#210,COMPANY,Restated Financial Statements of Assets and,Meridian Group
+para#210,COMPANY,capital reserve,Falcon Enterprises Limited
+para#213,COMPANY,Ind AS 33,Ironwood Holdings
+para#213,COMPANY,Bonus Issue,Pinnacle Corp
+para#213,COMPANY,Indian Accounting Standard,Cobalt Industries Ltd.
+para#213,COMPANY,Diluted EPS,Lakeside Manufacturing
+para#213,COMPANY,EPS,Redstone Group
+para#214,COMPANY,Bonus,Acme Industries Limited
+para#214,COMPANY,Split of Equity Shares,Northstar Corporation
+para#214,COMPANY,Weighted,Bluewater Holdings
+para#226,COMPANY,Executive Directors,Summit Enterprises Ltd.
+para#226,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#226,PERSON,Rohit Kushal Hegde,John Johnson
+para#226,PERSON,Rajesh Kushal Hegde,John Williams
+para#226,PERSON,Kushal Subbayya Hegde,John Jones
+para#227,COMPANY,Ganesh Prasad,Vertex Global Limited
+para#227,PERSON,Sarthak Malvadkar,John Doe
+para#227,PERSON,Amod Joshi,John Garcia
+para#227,PERSON,Sandesh Bhagwat,John Miller
+para#229,COMPANY,Group Companies,Ironwood Holdings
+para#233,COMPANY,Bidders,Lakeside Manufacturing
+para#253,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#254,PERSON,Promoter,John Davis
+para#262,COMPANY,Equity Share,Crestview Industries
+para#262,PERSON,Pursuant,John Rodriguez
+para#263,COMPANY,Kirtane & Pandit LLP,Silverline Corp
+para#268,COMPANY,Kirtane & Pandit LLP,Silverline Corp
+para#277,COMPANY,Kirtane & Pandit LLP,Silverline Corp
+para#278,COMPANY,Promoter Selling Shareholders,Pinnacle Corp
+para#279,COMPANY,Promoter Selling Shareholders,Pinnacle Corp
+para#280,COMPANY,Equity,Horizon Manufacturing Ltd.
+para#280,COMPANY,Promoter Selling Shareholders,Pinnacle Corp
+para#280,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#283,COMPANY,Kirtane & Pandit LLP,Silverline Corp
+para#286,COMPANY,Bonus,Acme Industries Limited
+para#288,PERSON,Secondary Transfer of,John Martinez
+para#294,COMPANY,Capital Structure,Crestview Industries
+para#296,COMPANY,Shareholders,Meridian Group
+para#305,COMPANY,Restated Financial Statements,Lakeside Manufacturing
+para#307,COMPANY,Market Data and Currency of Presentation,Falcon Enterprises Limited
+para#307,COMPANY,Financial Information,Ironwood Holdings
+para#307,COMPANY,Care Analytics and,Bluewater Holdings
+para#308,COMPANY,INTERNAL RISKS,Pinnacle Corp
+para#320,COMPANY,Virginia Transformer Corporation,Cobalt Industries Ltd.
+para#320,COMPANY,Transformers & Rectifiers,Lakeside Manufacturing
+para#320,PERSON,Nidec Industrial Automation India Private Limited,John Hernandez
+para#320,COMPANY,Georgia Transformer Corporation,Redstone Group
+para#320,COMPANY,Emirates Transformer & Switchgear Limited,Acme Industries Limited
+para#320,COMPANY,CG Power,Northstar Corporation
+para#320,PERSON,Bijlee Limited,John Lopez
+para#320,COMPANY,Al-Ahleia Switchgear Co.,Bluewater Holdings
+para#348,COMPANY,Vedanta Limited Sterlite Copper,Summit Enterprises Ltd.
+para#348,COMPANY,Savli Copper Products Private Limited,Vertex Global Limited
+para#348,COMPANY,Polycom Associates,Silverline Corp
+para#348,COMPANY,Hindalco Industries Limited,Horizon Manufacturing Ltd.
+para#348,COMPANY,Beck India Limited,Crestview Industries
+para#348,COMPANY,Cindus Corporation,Meridian Group
+para#348,COMPANY,Ahlstrom Sweden AB,Falcon Enterprises Limited
+para#359,COMPANY,London Metal Exchange,Ironwood Holdings
+para#382,PERSON,Excludes,John Wilson
+para#392,PERSON,Supa Facility,John Anderson
+para#392,PERSON,Supa Facility,John Anderson
+para#394,COMPANY,Proposed Capital Expenditure,Pinnacle Corp
+para#395,COMPANY,Proposed Capital Expenditure,Pinnacle Corp
+para#395,COMPANY,Proposed Capital Expenditure,Pinnacle Corp
+para#395,COMPANY,Proposed Capital Expenditure,Pinnacle Corp
+para#401,COMPANY,Supa Facility,Cobalt Industries Ltd.
+para#401,COMPANY,Supa Facility,Cobalt Industries Ltd.
+para#402,COMPANY,Supa Facility,Cobalt Industries Ltd.
+para#402,PERSON,Supa Facility,John Anderson
+para#406,COMPANY,CTC,Lakeside Manufacturing
+para#410,COMPANY,Certifications,Redstone Group
+para#410,COMPANY,"Business - Quality Control, Services",Acme Industries Limited
+para#417,COMPANY,"Ministry of Commerce and Industry, Government of India",Northstar Corporation
+para#418,COMPANY,CTS,Bluewater Holdings
+para#429,COMPANY,KSH International Private Limited,Northstar Corporation
+para#429,COMPANY,Callings and Employment Act,Summit Enterprises Ltd.
+para#429,COMPANY,Maharashtra Sales Tax Department,Vertex Global Limited
+para#434,COMPANY,Supa Facility,Cobalt Industries Ltd.
+para#434,COMPANY,Supa Facility,Cobalt Industries Ltd.
+para#441,COMPANY,KSH International Private Limited,Northstar Corporation
+para#441,COMPANY,Bhandary Metal Extrusion Private Limited,Bluewater Holdings
+para#442,PERSON,Rajesh Kushal Hegde,John Williams
+para#443,PERSON,Rohit Kushal Hegde,John Johnson
+para#444,PERSON,Rohit Kushal Hegde,John Johnson
+para#456,COMPANY,Kanj,Silverline Corp
+para#457,COMPANY,Capital Structure,Crestview Industries
+para#457,COMPANY,MoA,Horizon Manufacturing Ltd.
+para#457,PERSON,Jayaram N. Shetty,John Thomas
+para#457,PERSON,Narayna B. Shetty,John Taylor
+para#457,PERSON,Kushal Subbayya Hegde,John Jones
+para#457,PERSON,Karunakar N. Bhandary,John Moore
+para#464,COMPANY,Care Analytics and,Bluewater Holdings
+para#465,COMPANY,CareEdge Research,Northstar Corporation
+para#465,COMPANY,CareEdge Research,Northstar Corporation
+para#468,COMPANY,Market Data and Currency of,Crestview Industries
+para#468,COMPANY,Financial Information,Ironwood Holdings
+para#477,COMPANY,Trade,Meridian Group
+para#477,COMPANY,COGS,Falcon Enterprises Limited
+para#477,COMPANY,Inventory,Ironwood Holdings
+para#477,COMPANY,Trade,Meridian Group
+para#479,COMPANY,COGS,Falcon Enterprises Limited
+para#479,COMPANY,Trade,Meridian Group
+para#488,COMPANY,Executive Directors,Summit Enterprises Ltd.
+para#488,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#488,PERSON,Rohit Kushal Hegde,John Johnson
+para#488,PERSON,Rajesh Kushal Hegde,John Williams
+para#488,PERSON,Kushal Subbayya Hegde,John Jones
+para#489,COMPANY,Ganesh Prasad,Vertex Global Limited
+para#489,PERSON,Sarthak Malvadkar,John Doe
+para#489,PERSON,Amod Joshi,John Garcia
+para#489,PERSON,Sandesh Bhagwat,John Miller
+para#491,COMPANY,Group Companies,Ironwood Holdings
+para#510,COMPANY,CTC,Lakeside Manufacturing
+para#515,COMPANY,CTC,Lakeside Manufacturing
+para#521,COMPANY,CTC,Lakeside Manufacturing
+para#527,PERSON,Alpha,John Jackson
+para#527,PERSON,Taluka Parner,John Martin
+para#527,COMPANY,Plot No. F-223,Pinnacle Corp
+para#535,PERSON,Supa Facility,John Anderson
+para#535,COMPANY,Manufacturing Facilities,Cobalt Industries Ltd.
+para#535,COMPANY,Taloja (Raigad,Lakeside Manufacturing
+para#540,COMPANY,Promoter Selling Shareholders,Pinnacle Corp
+para#545,PERSON,ISO 45001:2018,John Lee
+para#545,PERSON,ISO 14001:2015,John Perez
+para#545,PERSON,ISO 9001:2015,John Thompson
+para#547,COMPANY,TDS,Redstone Group
+para#557,COMPANY,& Goods and Services Tax,Acme Industries Limited
+para#558,COMPANY,Employer and Employee Contribution,Northstar Corporation
+para#570,COMPANY,Supa Facility,Cobalt Industries Ltd.
+para#583,COMPANY,Care Ratings Limited,Bluewater Holdings
+para#590,COMPANY,SEK,Crestview Industries
+para#590,COMPANY,Indian Rupees,Summit Enterprises Ltd.
+para#594,COMPANY,Fraud,Summit Enterprises Ltd.
+para#595,COMPANY,Fraud,Summit Enterprises Ltd.
+para#604,COMPANY,Bank,Vertex Global Limited
+para#611,COMPANY,inter alia,Silverline Corp
+para#617,COMPANY,Key Management Personnel,Horizon Manufacturing Ltd.
+para#617,COMPANY,Individual Promoters,Crestview Industries
+para#618,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#618,PERSON,Rohit Kushal Hegde,John Johnson
+para#618,PERSON,Rajesh Kushal Hegde,John Williams
+para#618,PERSON,Pushpa Kushal Hegde,John Brown
+para#619,COMPANY,Individual Promoters,Crestview Industries
+para#631,COMPANY,“Our Management,Meridian Group
+para#634,COMPANY,inter alia,Silverline Corp
+para#634,PERSON,Ajay Shriram Patil,John White
+para#634,COMPANY,Dinesh Hirachand Munot,Falcon Enterprises Limited
+para#634,COMPANY,Independent Directors,Ironwood Holdings
+para#634,COMPANY,Independent Directors,Ironwood Holdings
+para#638,COMPANY,India Scheme,Pinnacle Corp
+para#642,COMPANY,MIP,Cobalt Industries Ltd.
+para#642,COMPANY,MIP,Cobalt Industries Ltd.
+para#642,COMPANY,Maharashtra State Government,Lakeside Manufacturing
+para#642,PERSON,Supa Facility,John Anderson
+para#643,COMPANY,Directorate General of Foreign Trade,Redstone Group
+para#643,COMPANY,"Ministry of Commerce and Industry, Department of Commerce",Acme Industries Limited
+para#648,COMPANY,KSH,Northstar Corporation
+para#648,COMPANY,Group Entities,Bluewater Holdings
+para#648,COMPANY,Park IV Private Limited,Summit Enterprises Ltd.
+para#648,PERSON,Waterloo Industrial,John Harris
+para#648,PERSON,Waterloo Industrial,John Harris
+para#648,PERSON,Waterloo Industrial,John Harris
+para#648,PERSON,Waterloo Industrial,John Harris
+para#648,COMPANY,xiv,Vertex Global Limited
+para#648,PERSON,Waterloo Industrial Park VI Private Limited,John Smith
+para#648,PERSON,Waterloo Industrial Park V Private Limited,John Sanchez
+para#648,PERSON,Waterloo Industrial Park IV Private Limited,John Clark
+para#648,PERSON,Waterloo Industrial Park III Private Limited,John Ramirez
+para#648,PERSON,Waterloo Industrial,John Harris
+para#648,PERSON,Waterloo Industrial Park,John Lewis
+para#648,COMPANY,Electricals Private Limited,Silverline Corp
+para#648,COMPANY,Kushal Motors,Horizon Manufacturing Ltd.
+para#648,COMPANY,KSH Integrated Logistics Private Limited,Crestview Industries
+para#648,COMPANY,KSH Distriparks Private Limited,Meridian Group
+para#648,COMPANY,KSH Project Management Services Private Limited,Falcon Enterprises Limited
+para#648,COMPANY,Waterloo Motors Private Limited,Ironwood Holdings
+para#648,COMPANY,KSH,Northstar Corporation
+para#658,COMPANY,Bank Balances and Advances,Pinnacle Corp
+para#658,COMPANY,Bank Balances,Cobalt Industries Ltd.
+para#658,COMPANY,Freehold Land and Leasehold Land,Lakeside Manufacturing
+para#658,COMPANY,Capital Work,Redstone Group
+para#659,COMPANY,Transit Insurance,Acme Industries Limited
+para#669,COMPANY,Board of Directors,Northstar Corporation
+para#672,COMPANY,"Audit Committee, Board",Bluewater Holdings
+para#673,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#674,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#674,COMPANY,Equity Share,Crestview Industries
+para#676,COMPANY,Cloud Services Vendor’s,Summit Enterprises Ltd.
+para#679,COMPANY,Shareholders,Meridian Group
+para#679,PERSON,SEBI ICDR,Peter Doe
+para#679,PERSON,SEBI ICDR,Peter Doe
+para#679,PERSON,Supa Facility,John Anderson
+para#679,PERSON,Supa Facility,John Anderson
+para#680,COMPANY,Net Proceeds,Vertex Global Limited
+para#686,PERSON,Pushpa Hegde,Peter Parker
+para#686,PERSON,Kushal Subbayya Hegde,John Jones
+para#689,COMPANY,Promoter Selling Shareholders,Pinnacle Corp
+para#690,COMPANY,Promoter Selling,Silverline Corp
+para#696,COMPANY,IPO Committee,Horizon Manufacturing Ltd.
+para#698,COMPANY,Promoter Selling Shareholders,Pinnacle Corp
+para#702,PERSON,SEBI ICDR,Peter Doe
+para#702,PERSON,SEBI ICDR,Peter Doe
+para#702,COMPANY,Promoter Selling Shareholders,Pinnacle Corp
+para#704,COMPANY,Bids,Crestview Industries
+para#704,COMPANY,Allotment,Meridian Group
+para#704,COMPANY,Bidders,Lakeside Manufacturing
+para#706,COMPANY,Non-Institutional Investors,Falcon Enterprises Limited
+para#706,COMPANY,Non-Institutional Portion,Ironwood Holdings
+para#706,COMPANY,Bidders,Lakeside Manufacturing
+para#706,COMPANY,Non-Institutional Portion,Ironwood Holdings
+para#706,COMPANY,Non-Institutional Investors,Falcon Enterprises Limited
+para#706,COMPANY,each Retail Individual Investors,Pinnacle Corp
+para#706,COMPANY,Bids,Crestview Industries
+para#706,COMPANY,Non-Institutional Investors and Retail Individual Investors,Cobalt Industries Ltd.
+para#708,COMPANY,Bids,Crestview Industries
+para#708,COMPANY,Allotment,Meridian Group
+para#708,COMPANY,Bids,Crestview Industries
+para#708,COMPANY,Mutual Funds,Lakeside Manufacturing
+para#708,COMPANY,Mutual Funds,Lakeside Manufacturing
+para#708,PERSON,SEBI ICDR,Peter Doe
+para#708,PERSON,Mutual Funds,Peter Smith
+para#708,COMPANY,"Mutual Funds, Life Insurance Companies and Pension Funds",Redstone Group
+para#708,COMPANY,Bids,Crestview Industries
+para#708,COMPANY,Life Insurance Companies and Pension Funds,Acme Industries Limited
+para#708,PERSON,SEBI ICDR,Peter Doe
+para#710,COMPANY,Bids,Crestview Industries
+para#720,PERSON,Taluka-Khed,Peter Johnson
+para#720,COMPANY,Village Birdewadi Chakan,Northstar Corporation
+para#725,COMPANY,Montreal Business Centre Off Pallod Farms,Bluewater Holdings
+para#726,ADDRESS,"Pune 411 045 Maharashtra, India","103 Elm Road, Georgetown, ST 10003"
+para#733,ADDRESS,"PCNTDA Green Building Block A 1st and 2nd floor Near Akurdi Railway Station Akurdi, Pune – 411 044 Maharashtra, India","104 Birchwood Drive, Clinton, ST 10004"
+para#734,COMPANY,Board of Directors,Northstar Corporation
+para#735,COMPANY,Board of Directors,Northstar Corporation
+para#739,COMPANY,Board of Directors,Northstar Corporation
+para#742,PERSON,Sarthak Malvadkar,John Doe
+para#743,ADDRESS,"Taluka Khed, District Pune – 410 501","105 Willow Court, Madison, ST 10005"
+para#745,PHONE,91 20 45053237,+91 10000 01
+para#746,EMAIL,Sarthak.malvadkar@kshinterantional.com,john.doe@example.com
+para#748,COMPANY,Allotted Equity Shares,Summit Enterprises Ltd.
+para#748,COMPANY,Allotment,Meridian Group
+para#748,PERSON,Registrar,Peter Williams
+para#749,COMPANY,ASBA Bidders,Vertex Global Limited
+para#749,COMPANY,Registrar,Silverline Corp
+para#749,COMPANY,Registrar,Silverline Corp
+para#749,COMPANY,Registered Brokers,Horizon Manufacturing Ltd.
+para#749,COMPANY,Bids,Crestview Industries
+para#749,COMPANY,Designated,Crestview Industries
+para#749,PERSON,Bid,Peter Brown
+para#749,COMPANY,Bid cum Application Form,Meridian Group
+para#749,PERSON,UPI Bidders,Peter Jones
+para#749,PERSON,UPI ID,Peter Garcia
+para#749,COMPANY,ASBA Account,Falcon Enterprises Limited
+para#749,COMPANY,Bidder,Ironwood Holdings
+para#749,PERSON,UPI ID,Peter Garcia
+para#749,PERSON,Bidder’s DP ID,Peter Miller
+para#749,COMPANY,First Bidder,Pinnacle Corp
+para#749,COMPANY,Registrar,Silverline Corp
+para#750,PERSON,Bid Amount,Peter Davis
+para#750,COMPANY,Bidders’ DP ID,Cobalt Industries Ltd.
+para#750,COMPANY,First Bidder,Pinnacle Corp
+para#750,COMPANY,Registrar,Silverline Corp
+para#754,COMPANY,Nuvama Wealth Management Limited,Lakeside Manufacturing
+para#755,PERSON,Bandra Kurla Complex,Peter Rodriguez
+para#756,ADDRESS,"Bandra East, Mumbai – 400 051 Maharashtra, India","106 Aspen Way, Franklin, ST 10006"
+para#757,EMAIL,ksh.ipo@nuvama.com,peter.martinez@example.com
+para#757,PERSON,Email,Peter Hernandez
+para#757,PHONE,+91 22 40094400,+91 10000 02
+para#758,EMAIL,customerservice.mb@nuvama.com,peter.lopez@example.com
+para#759,COMPANY,Lokesh Shah/ Soumavo Sarkar,Redstone Group
+para#762,ADDRESS,"ICICI Securities Limited ICICI Venture House Appasaheb Marathe Marg Prabhadevi, Mumbai – 400 025 Maharashtra, India","107 Magnolia Boulevard, Greenville, ST 10007"
+para#763,EMAIL,customercare@icicisecurities.com,peter.wilson@example.com
+para#763,EMAIL,ksh@icicisecurities.com,peter.anderson@example.com
+para#763,PHONE,+91 22 6807 7100,+91 10000 03
+para#764,PERSON,Kishan Rastogi/Abhijit Diwan,Peter Thomas
+para#776,COMPANY,Nuvama Wealth Management Limited,Lakeside Manufacturing
+para#777,COMPANY,G Block,Acme Industries Limited
+para#778,ADDRESS,"Bandra Kurla Complex, Bandra East Mumbai 400 051","108 Maple Avenue, Springfield, ST 10008"
+para#780,PHONE,91 22 4009 4400,+91 10000 04
+para#781,EMAIL,sheetal.parab@nuvama.com,peter.taylor@example.com
+para#781,EMAIL,prakash.boricha@nuvama.com,peter.moore@example.com
+para#781,EMAIL,ksh.ipo@nuvama.com,peter.martinez@example.com
+para#781,PERSON,Email,Peter Hernandez
+para#786,ADDRESS,"ICICI Securities Limited ICICI Venture House Appasaheb Marathe Marg Prabhadevi, Mumbai – 400 025 Maharashtra, India","107 Magnolia Boulevard, Greenville, ST 10007"
+para#787,EMAIL,ksh@icicisecurities.com,peter.anderson@example.com
+para#787,PHONE,+91 22 6807 7100,+91 10000 03
+para#788,EMAIL,customercare@icicisecurities.com,peter.wilson@example.com
+para#789,PERSON,Kishan Rastogi/Abhijit Diwan,Peter Thomas
+para#792,COMPANY,Legal Counsel,Northstar Corporation
+para#793,COMPANY,One World Centre,Bluewater Holdings
+para#794,COMPANY,Tower 2A & 2B,Summit Enterprises Ltd.
+para#795,ADDRESS,"Senapati Bapat Marg, Lower Parel (West) Mumbai – 400 013","109 Oak Street, Fairview, ST 10009"
+para#797,EMAIL,ipo@trilegal.com,peter.jackson@example.com
+para#798,PHONE,+91 22 4079 1000,+91 10000 05
+para#800,COMPANY,Registrar,Silverline Corp
+para#801,PERSON,C-101,Peter Martin
+para#801,COMPANY,MUFG Intime India Private Limited,Vertex Global Limited
+para#802,COMPANY,India Telephone: +91,Silverline Corp
+para#802,PERSON,Vikhroli,Peter Lee
+para#803,EMAIL,kshinternational.ipo@in.mpms.mufg.com,peter.perez@example.com
+para#804,EMAIL,kshinternational.ipo@in.mpms.mufg.com,peter.perez@example.com
+para#805,COMPANY,INR000004058,Horizon Manufacturing Ltd.
+para#805,PERSON,Shanti Gopalkrishnan,Peter Thompson
+para#807,COMPANY,U67190MH1999PTC118368,Crestview Industries
+para#809,COMPANY,FIG-OPS Department,Meridian Group
+para#809,COMPANY,HDFC Bank Limited,Falcon Enterprises Limited
+para#810,ADDRESS,"Next to Kanjurmarg Railway Station, Kanjurmarg (East) Mumbai – 400042, Maharashtra, India","110 Cedar Lane, Riverside, ST 10010"
+para#811,PHONE,+91 22 30752914,+91 10000 06
+para#811,PHONE,+91 22 30752928,+91 10000 07
+para#811,PHONE,+91 22 30752929,+91 10000 08
+para#812,EMAIL,pravin.teli2@hdfcbank.com,peter.white@example.com
+para#812,EMAIL,tushar.gavankar@hdfcbank.com,peter.harris@example.com
+para#812,EMAIL,eric.bacha@hdfcbank.com,peter.sanchez@example.com
+para#812,EMAIL,sachin.gawade@hdfcbank.com,peter.clark@example.com
+para#812,EMAIL,siddharth.jadhav@hdfcbank.com,peter.ramirez@example.com
+para#813,PERSON,Jadhav/ Tushar Gavankar,Peter Lewis
+para#813,PERSON,Eric Bacha/,Emma Doe
+para#818,COMPANY,Bank Limited,Ironwood Holdings
+para#819,COMPANY,Capital Market Division,Pinnacle Corp
+para#820,COMPANY,Varun Badai,Cobalt Industries Ltd.
+para#820,EMAIL,Ipocmg@icicibank.com,emma.parker@example.com
+para#820,PHONE,022-68052182,+1 555-100-0009
+para#820,PERSON,Marg Backbay Reclamation Churchgate,Emma Smith
+para#820,COMPANY,5th Floor,Lakeside Manufacturing
+para#824,COMPANY,HDFC Bank Limited,Falcon Enterprises Limited
+para#825,COMPANY,FIG-OPS Department,Meridian Group
+para#825,COMPANY,HDFC Bank Limited,Falcon Enterprises Limited
+para#826,ADDRESS,"Next to Kanjurmarg Railway Station, Kanjurmarg (East) Mumbai – 400042, Maharashtra, India","110 Cedar Lane, Riverside, ST 10010"
+para#827,PHONE,+91 22 30752914,+91 10000 06
+para#827,PHONE,+91 22 30752928,+91 10000 07
+para#827,PHONE,+91 22 30752929,+91 10000 08
+para#828,EMAIL,pravin.teli2@hdfcbank.com,peter.white@example.com
+para#828,EMAIL,tushar.gavankar@hdfcbank.com,peter.harris@example.com
+para#828,EMAIL,eric.bacha@hdfcbank.com,peter.sanchez@example.com
+para#828,EMAIL,sachin.gawade@hdfcbank.com,peter.clark@example.com
+para#828,EMAIL,siddharth.jadhav@hdfcbank.com,peter.ramirez@example.com
+para#829,PERSON,Jadhav/ Tushar Gavankar,Peter Lewis
+para#829,PERSON,Eric Bacha/,Emma Doe
+para#834,COMPANY,Bank Limited,Ironwood Holdings
+para#835,COMPANY,Capital Market Division,Pinnacle Corp
+para#836,COMPANY,Varun Badai,Cobalt Industries Ltd.
+para#836,EMAIL,Ipocmg@icicibank.com,emma.parker@example.com
+para#836,PHONE,022-68052182,+1 555-100-0009
+para#836,PERSON,Marg Backbay Reclamation Churchgate,Emma Smith
+para#836,COMPANY,5th Floor,Lakeside Manufacturing
+para#839,COMPANY,HDFC Bank Limited,Falcon Enterprises Limited
+para#840,COMPANY,FIG-OPS Department,Meridian Group
+para#840,COMPANY,HDFC Bank Limited,Falcon Enterprises Limited
+para#841,ADDRESS,"Next to Kanjurmarg Railway Station, Kanjurmarg (East) Mumbai – 400042, Maharashtra, India","110 Cedar Lane, Riverside, ST 10010"
+para#842,PHONE,+91 22 30752914,+91 10000 06
+para#842,PHONE,+91 22 30752928,+91 10000 07
+para#842,PHONE,+91 22 30752929,+91 10000 08
+para#843,EMAIL,pravin.teli2@hdfcbank.com,peter.white@example.com
+para#843,EMAIL,tushar.gavankar@hdfcbank.com,peter.harris@example.com
+para#843,EMAIL,eric.bacha@hdfcbank.com,peter.sanchez@example.com
+para#843,EMAIL,sachin.gawade@hdfcbank.com,peter.clark@example.com
+para#843,EMAIL,siddharth.jadhav@hdfcbank.com,peter.ramirez@example.com
+para#844,PERSON,Jadhav/ Tushar Gavankar,Peter Lewis
+para#844,PERSON,Eric Bacha/,Emma Doe
+para#848,COMPANY,Designated Intermediaries,Redstone Group
+para#850,COMPANY,Application	Forms,Acme Industries Limited
+para#850,PERSON,Bid,Peter Brown
+para#850,COMPANY,CDP,Northstar Corporation
+para#850,COMPANY,Syndicate/Sub Syndicate,Bluewater Holdings
+para#850,COMPANY,RIB,Summit Enterprises Ltd.
+para#850,COMPANY,ASBA,Vertex Global Limited
+para#850,COMPANY,SCSBs,Silverline Corp
+para#852,COMPANY,SCSBs,Silverline Corp
+para#852,COMPANY,SCSBs,Silverline Corp
+para#852,PERSON,UPI Bidders,Peter Jones
+para#852,COMPANY,ICDR Master Circular,Horizon Manufacturing Ltd.
+para#854,COMPANY,Bid cum Application Forms,Crestview Industries
+para#854,COMPANY,Syndicate,Meridian Group
+para#854,COMPANY,Bid cum Application Forms,Crestview Industries
+para#854,COMPANY,Syndicate,Meridian Group
+para#854,COMPANY,Bids,Crestview Industries
+para#854,COMPANY,Bids,Crestview Industries
+para#856,COMPANY,ASBA Forms,Falcon Enterprises Limited
+para#857,PERSON,Share Transfer Agents,Emma Johnson
+para#857,COMPANY,Registrar,Silverline Corp
+para#864,COMPANY,LLP,Ironwood Holdings
+para#864,COMPANY,Kirtane & Pandit,Pinnacle Corp
+para#865,COMPANY,Lalit Muljibhai Sarvaiya,Cobalt Industries Ltd.
+para#866,COMPANY,Kanj & Co. LLP,Lakeside Manufacturing
+para#869,COMPANY,LLP,Ironwood Holdings
+para#869,COMPANY,Kirtane & Pandit,Pinnacle Corp
+para#870,COMPANY,Gopal House,Redstone Group
+para#870,COMPANY,5th Floor,Lakeside Manufacturing
+para#871,COMPANY,Plot A1 Opp Harshal Hall Kothrud,Acme Industries Limited
+para#874,EMAIL,parag.pansare@kirtanepandit.com,emma.williams@example.com
+para#885,COMPANY,Citibank N.A.,Northstar Corporation
+para#886,PERSON,Floor,Emma Brown
+para#887,ADDRESS,"Koregaon Park, Pune – 411 001 Maharashtra, India","111 Elm Road, Georgetown, ST 10011"
+para#888,PHONE,+91 20 6606 4494,+91 10000 10
+para#891,EMAIL,hitesh.ramani@citi.com,emma.jones@example.com
+para#891,PERSON,Email,Peter Hernandez
+para#895,COMPANY,Export-Import Bank of India,Bluewater Holdings
+para#897,COMPANY,4th Floor,Summit Enterprises Ltd.
+para#898,ADDRESS,"Signature Building, Bhandarkar road Shivaji Nagar, Pune – 411 004 Maharashtra, India","112 Birchwood Drive, Clinton, ST 10012"
+para#899,EMAIL,pro@eximbankindia.in,emma.garcia@example.com
+para#899,PHONE,+91 20 2640 3100,+91 10000 11
+para#903,COMPANY,IndusInd Bank Limited,Vertex Global Limited
+para#906,EMAIL,sharmila.joshi@indusind.com,emma.miller@example.com
+para#906,PERSON,Email,Peter Hernandez
+para#906,PERSON,Sharmila Joshi Website,Emma Davis
+para#906,PHONE,+91-20-26234000,+91 10000 12
+para#908,COMPANY,Bank Limited,Ironwood Holdings
+para#909,COMPANY,CTS No,Silverline Corp
+para#909,PERSON,Tanishq Showroom,Emma Rodriguez
+para#909,COMPANY,Satguru House,Horizon Manufacturing Ltd.
+para#909,COMPANY,3rd Floor,Crestview Industries
+para#909,COMPANY,CBG,Meridian Group
+para#910,ADDRESS,"Bund Garden Road, Pune – 411 001 Maharashtra, India","113 Willow Court, Madison, ST 10013"
+para#911,EMAIL,cherag.gyara@icicibank.com,emma.martinez@example.com
+para#911,PERSON,Email,Peter Hernandez
+para#911,PERSON,Cherag Gyara Website,Emma Hernandez
+para#911,PHONE,91 8879770456,+91 10000 13
+para#913,COMPANY,HDFC Bank Limited,Falcon Enterprises Limited
+para#914,COMPANY,5th Floor,Lakeside Manufacturing
+para#917,PHONE,+91 20 6769 4648,+91 10000 14
+para#918,EMAIL,manisha.shukla@hdfcbank.com,emma.lopez@example.com
+para#920,COMPANY,Industrial Finance Branch,Falcon Enterprises Limited
+para#920,COMPANY,State Bank of India,Ironwood Holdings
+para#921,PERSON,Tara Chambers,Emma Wilson
+para#924,PHONE,+91 20 2561 8211,+91 10000 15
+para#925,EMAIL,rm6.ifbpune@sbi.co.in,emma.anderson@example.com
+para#925,PERSON,Email,Peter Hernandez
+para#929,PERSON,Sancheti Hospital Shivajinagar,Emma Thomas
+para#929,PERSON,Kubera Chambers Opp,Emma Taylor
+para#931,COMPANY,Ashish Mathew Pulloor,Pinnacle Corp
+para#933,EMAIL,ashishmp@federalbank.co.in,emma.moore@example.com
+para#933,PERSON,Email,Peter Hernandez
+para#935,COMPANY,Bajaj Finance Limited,Cobalt Industries Ltd.
+para#937,COMPANY,BKC,Lakeside Manufacturing
+para#938,EMAIL,anand.soni@bajajfinserv.in,emma.jackson@example.com
+para#938,PERSON,Email,Peter Hernandez
+para#938,PERSON,Soni Website,Emma Martin
+para#938,PHONE,+91 20 7157 6403,+91 10000 16
+para#945,COMPANY,Monitoring Agency,Redstone Group
+para#946,COMPANY,CARE Ratings Limited,Bluewater Holdings
+para#947,COMPANY,Credit Rating,Acme Industries Limited
+para#951,COMPANY,Green Shoe Option,Northstar Corporation
+para#954,PERSON,SEBI ICDR,Peter Doe
+para#954,PERSON,SEBI ICDR,Peter Doe
+para#955,COMPANY,Securities and Exchange Board of India,Bluewater Holdings
+para#956,PERSON,Listing SEBI Bhavan,Emma Lee
+para#956,COMPANY,Corporation Finance Department Division,Summit Enterprises Ltd.
+para#957,ADDRESS,"Bandra Kurla Complex, Bandra (E) Mumbai – 400 051, Maharashtra, India","114 Aspen Way, Franklin, ST 10014"
+para#962,COMPANY,Working Days,Vertex Global Limited
+para#962,COMPANY,Marathi,Silverline Corp
+para#962,COMPANY,Loksatta,Horizon Manufacturing Ltd.
+para#962,COMPANY,Jansatta,Crestview Industries
+para#962,COMPANY,Financial Express,Meridian Group
+para#962,COMPANY,Bids,Crestview Industries
+para#963,COMPANY,ASBA,Vertex Global Limited
+para#963,PERSON,Share Transfer Agents,Emma Johnson
+para#963,COMPANY,Registrar,Silverline Corp
+para#963,COMPANY,Syndicate,Meridian Group
+para#963,COMPANY,UPI ID,Falcon Enterprises Limited
+para#963,COMPANY,Non-Institutional Investors,Falcon Enterprises Limited
+para#963,COMPANY,SCSBs,Silverline Corp
+para#963,COMPANY,ASBA Account,Falcon Enterprises Limited
+para#963,COMPANY,ASBA,Vertex Global Limited
+para#963,PERSON,UPI Bidders,Peter Jones
+para#963,COMPANY,SCSBs,Silverline Corp
+para#963,COMPANY,ASBA Account,Falcon Enterprises Limited
+para#963,COMPANY,ASBA,Vertex Global Limited
+para#964,COMPANY,Bids,Crestview Industries
+para#964,COMPANY,Bids,Crestview Industries
+para#964,COMPANY,Retail Individual Investors,Ironwood Holdings
+para#964,COMPANY,Bids,Crestview Industries
+para#964,COMPANY,Non-Institutional Investors,Falcon Enterprises Limited
+para#965,PERSON,Mutual Funds,Peter Smith
+para#965,COMPANY,"Mutual Funds, Life Insurance Companies and Pension Funds",Redstone Group
+para#965,COMPANY,Bids,Crestview Industries
+para#965,COMPANY,Life Insurance Companies and Pension Funds,Acme Industries Limited
+para#967,COMPANY,Bids,Crestview Industries
+para#967,PERSON,SEBI ICDR,Peter Doe
+para#967,PERSON,SEBI ICDR,Peter Doe
+para#968,COMPANY,Bidders,Lakeside Manufacturing
+para#969,COMPANY,Allotment,Meridian Group
+para#972,COMPANY,Underwriters,Pinnacle Corp
+para#972,PERSON,BRLM,Emma Perez
+para#972,COMPANY,Bids,Crestview Industries
+para#979,COMPANY,Basis of Allotment,Cobalt Industries Ltd.
+para#980,PERSON,Exchange(s,Emma Thompson
+para#980,COMPANY,Board of Directors,Northstar Corporation
+para#981,COMPANY,Bidders,Lakeside Manufacturing
+para#981,COMPANY,Underwriters,Pinnacle Corp
+para#987,COMPANY,Basis of Allotment,Cobalt Industries Ltd.
+para#989,COMPANY,IPO Committee,Horizon Manufacturing Ltd.
+para#990,PERSON,SEBI ICDR,Peter Doe
+para#990,PERSON,SEBI ICDR,Peter Doe
+para#1010,COMPANY,E-MAIL,Lakeside Manufacturing
+para#1012,ADDRESS,"11/3, 11/4 and 11/5 Village Birdewadi Chakan Taluka - Khed Pune – 410 501","115 Magnolia Boulevard, Greenville, ST 10015"
+para#1014,ADDRESS,"201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner Pune – 411 045","116 Maple Avenue, Springfield, ST 10016"
+para#1017,PERSON,Sarthak Malvadkar Company,Emma White
+para#1019,PHONE,91 20 45053237,+91 10000 01
+para#1019,EMAIL,cs.connect@kshinternational.com,john.parker@example.com
+para#1022,COMPANY,KANCHENJUNGA FAMILY TRUST,Redstone Group
+para#1022,COMPANY,ANNAPURNA FAMILY TRUST,Acme Industries Limited
+para#1022,COMPANY,BROAD FAMILY TRUST,Northstar Corporation
+para#1022,COMPANY,MAKALU FAMILY TRUST,Bluewater Holdings
+para#1022,COMPANY,EVEREST FAMILY TRUST,Summit Enterprises Ltd.
+para#1022,COMPANY,DHAULAGIRI FAMILY TRUST,Vertex Global Limited
+para#1022,PERSON,RAKHI GIRIJA SHETTY,Emma Harris
+para#1022,PERSON,ROHIT KUSHAL HEGDE,John Johnson
+para#1022,PERSON,RAJESH KUSHAL HEGDE,John Williams
+para#1022,PERSON,PUSHPA KUSHAL HEGDE,John Brown
+para#1022,PERSON,KUSHAL SUBBAYYA HEGDE,John Jones
+para#1027,COMPANY,SIZE,Redstone Group
+para#1028,COMPANY,SIZE,Redstone Group
+para#1030,COMPANY,ELIGIBILITY,Acme Industries Limited
+para#1040,COMPANY,Non-Institutional Investors and,Northstar Corporation
+para#1040,COMPANY,Qualified Institutional Buyers,Bluewater Holdings
+para#1040,COMPANY,Issue of Capital,Summit Enterprises Ltd.
+para#1042,PERSON,ACQUISITION PER EQUITY SHARE,Emma Sanchez
+para#1042,COMPANY,SALE,Vertex Global Limited
+para#1042,COMPANY,OFFER FOR,Silverline Corp
+para#1042,PERSON,SELLING SHAREHOLDERS,Emma Clark
+para#1047,COMPANY,SALE,Vertex Global Limited
+para#1049,PERSON,Kushal Subbayya Hegde,John Jones
+para#1053,PERSON,Pushpa Kushal Hegde,John Brown
+para#1057,PERSON,Rajesh Kushal Hegde,John Williams
+para#1061,PERSON,Rohit Kushal Hegde,John Johnson
+para#1065,COMPANY,Kirtane & Pandit LLP,Silverline Corp
+para#1066,COMPANY,Bonus,Acme Industries Limited
+para#1066,COMPANY,Split of Equity Shares,Northstar Corporation
+para#1067,COMPANY,RISKS,Horizon Manufacturing Ltd.
+para#1068,COMPANY,Offer Price,Crestview Industries
+para#1068,PERSON,Cap Price,Emma Ramirez
+para#1070,PERSON,RISKS,Emma Lewis
+para#1071,COMPANY,Bidders,Lakeside Manufacturing
+para#1073,COMPANY,ISSUER,Meridian Group
+para#1074,COMPANY,Promoter Selling,Silverline Corp
+para#1074,COMPANY,inter alia,Silverline Corp
+para#1077,COMPANY,National Stock Exchange of,Falcon Enterprises Limited
+para#1079,COMPANY,NAME,Ironwood Holdings
+para#1084,COMPANY,Nuvama	Wealth Management Limited,Pinnacle Corp
+para#1085,COMPANY,Lokesh Shah/ Soumavo Sarkar,Redstone Group
+para#1086,EMAIL,ksh.ipo@nuvama.com,peter.martinez@example.com
+para#1086,PERSON,Email,Peter Hernandez
+para#1087,PHONE,+91 22 4009 4400,+91 10000 17
+para#1093,PERSON,Kishan Rastogi/ Abhijit Diwan,Liam Doe
+para#1095,EMAIL,ksh@icicisecurities.com,peter.anderson@example.com
+para#1096,PHONE,+91 22 6807 7100,+91 10000 03
+para#1097,COMPANY,REGISTRAR,Silverline Corp
+para#1098,COMPANY,REGISTRAR,Silverline Corp
+para#1101,COMPANY,MUFG Intime India Private Limited,Vertex Global Limited
+para#1103,PERSON,Shanti Gopalkrishnan,Peter Thompson
+para#1105,EMAIL,kshinternational.ipo@in.mpms.mufg.com,peter.perez@example.com
+para#1110,COMPANY,OPENS,Cobalt Industries Ltd.
+para#1110,COMPANY,BID/OFFE R,Lakeside Manufacturing
+para#1114,COMPANY,BID/OFFER CLOSES ON(2,Redstone Group
+para#1116,COMPANY,EVEREST,Acme Industries Limited
+para#1116,COMPANY,DHAULAGIRI FAMILY TRUST,Vertex Global Limited
+para#1116,PERSON,RAKHI GIRIJA SHETTY,Emma Harris
+para#1116,PERSON,ROHIT KUSHAL HEGDE,John Johnson
+para#1116,PERSON,RAJESH KUSHAL HEGDE,John Williams
+para#1116,PERSON,PUSHPA KUSHAL HEGDE,John Brown
+para#1116,PERSON,KUSHAL SUBBAYYA HEGDE,John Jones
+para#1117,COMPANY,KANCHENJUNGA FAMILY TRUST,Redstone Group
+para#1117,COMPANY,ANNAPURNA FAMILY TRUST,Acme Industries Limited
+para#1117,COMPANY,BROAD FAMILY TRUST,Northstar Corporation
+para#1117,COMPANY,MAKALU FAMILY TRUST,Bluewater Holdings
+para#1117,COMPANY,FAMILY TRUST,Northstar Corporation
+para#1118,PERSON,EACH BY ROHIT KUSHAL,Liam Parker
+para#1118,COMPANY,EQUITY,Horizon Manufacturing Ltd.
+para#1118,PERSON,EACH BY RAJESH KUSHAL,Liam Smith
+para#1118,COMPANY,EQUITY,Horizon Manufacturing Ltd.
+para#1118,PERSON,EACH BY PUSHPA KUSHAL,Liam Johnson
+para#1118,COMPANY,EQUITY,Horizon Manufacturing Ltd.
+para#1118,PERSON,EACH BY KUSHAL SUBBAYYA,Liam Williams
+para#1118,COMPANY,EQUITY,Horizon Manufacturing Ltd.
+para#1118,PERSON,OFFERED SHARES,Liam Brown
+para#1118,COMPANY,EQUITY,Horizon Manufacturing Ltd.
+para#1118,COMPANY,EQUITY,Horizon Manufacturing Ltd.
+para#1118,PERSON,PER EQUITY SHARE,Liam Jones
+para#1118,PERSON,PER EQUITY SHARE,Liam Jones
+para#1118,COMPANY,ISSUER,Meridian Group
+para#1118,COMPANY,KSH INTERNATIONAL LIMITED,Acme Industries Limited
+para#1118,PERSON,EQUITY SHARES,Liam Garcia
+para#1118,COMPANY,EQUITY,Horizon Manufacturing Ltd.
+para#1119,COMPANY,EQUITY SHARE CAPITAL OF OUR COMPANY,Bluewater Holdings
+para#1119,PERSON,SELLING SHAREHOLDERS,Emma Clark
+para#1119,COMPANY,EQUITY,Horizon Manufacturing Ltd.
+para#1119,COMPANY,SALE OF,Summit Enterprises Ltd.
+para#1119,PERSON,PROMOTER SELLING SHAREHOLDERS,Liam Miller
+para#1119,COMPANY,COLLECTIVELY,Vertex Global Limited
+para#1120,PERSON,SHALL BE MADE AVAILABLE,Liam Davis
+para#1120,PERSON,WIDELY CIRCULATED MARATHI DAILY NEWSPAPER,Liam Rodriguez
+para#1120,PERSON,DAILY NEWSPAPER,Liam Martinez
+para#1120,PERSON,WIDELY CIRCULATED HINDI NATIONAL,Liam Hernandez
+para#1120,PERSON,DAILY NEWSPAPER,Liam Martinez
+para#1120,PERSON,WIDELY CIRCULATED ENGLISH NATIONAL,Liam Lopez
+para#1120,PERSON,BOOK RUNNING LEAD MANAGERS,Liam Wilson
+para#1120,PERSON,WILL BE DECIDED BY,Liam Anderson
+para#1120,COMPANY,EQUITY,Horizon Manufacturing Ltd.
+para#1121,PERSON,SEBI ICDR REGULATIONS,Liam Thomas
+para#1121,PERSON,AS AMENDED,Liam Taylor
+para#1121,PERSON,DISCLOSURE REQUIREMENTS,Liam Moore
+para#1121,COMPANY,EXCHANGE BOARD OF INDIA,Silverline Corp
+para#1122,COMPANY,Designated Intermediaries,Redstone Group
+para#1122,COMPANY,Syndicate,Meridian Group
+para#1124,COMPANY,Bids,Crestview Industries
+para#1124,PERSON,SEBI ICDR,Peter Doe
+para#1124,COMPANY,Retail Individual Investors,Ironwood Holdings
+para#1124,COMPANY,Bids,Crestview Industries
+para#1124,PERSON,SEBI ICDR,Peter Doe
+para#1124,COMPANY,Bidders,Lakeside Manufacturing
+para#1124,COMPANY,Non-Institutional Portion,Ironwood Holdings
+para#1124,COMPANY,Non-Institutional Investors,Falcon Enterprises Limited
+para#1124,COMPANY,Bids,Crestview Industries
+para#1124,COMPANY,Mutual Funds,Lakeside Manufacturing
+para#1124,COMPANY,Bids,Crestview Industries
+para#1124,COMPANY,Mutual Funds,Lakeside Manufacturing
+para#1124,PERSON,SEBI ICDR,Peter Doe
+para#1124,PERSON,Mutual Funds,Peter Smith
+para#1124,COMPANY,"Mutual Funds, Life Insurance Companies and Pension Funds",Redstone Group
+para#1124,COMPANY,Bids,Crestview Industries
+para#1124,COMPANY,Life Insurance Companies and Pension Funds,Acme Industries Limited
+para#1124,PERSON,SEBI ICDR,Peter Doe
+para#1124,COMPANY,Qualified Institutional Buyers,Bluewater Holdings
+para#1124,PERSON,SEBI ICDR,Peter Doe
+para#1124,PERSON,SEBI ICDR,Peter Doe
+para#1125,COMPANY,ASBA,Vertex Global Limited
+para#1125,COMPANY,UPI Bidders,Horizon Manufacturing Ltd.
+para#1125,COMPANY,UPI ID,Falcon Enterprises Limited
+para#1126,COMPANY,RISKS,Horizon Manufacturing Ltd.
+para#1127,PERSON,Cap Price,Emma Ramirez
+para#1127,PERSON,Floor Price,Liam Jackson
+para#1130,COMPANY,Bidders,Lakeside Manufacturing
+para#1130,COMPANY,Bidders,Lakeside Manufacturing
+para#1131,COMPANY,ISSUER,Meridian Group
+para#1132,COMPANY,Promoter Selling Shareholder,Crestview Industries
+para#1132,COMPANY,inter alia,Silverline Corp
+para#1137,COMPANY,REGISTRAR,Silverline Corp
+para#1144,COMPANY,Nuvama Wealth Management Limited,Lakeside Manufacturing
+para#1145,ADDRESS,"801 - 804, Wing A, Building No 3, Inspire BKC, G Block, Bandra Kurla Complex, Bandra East, Mumbai 400051, Maharashtra, India","117 Oak Street, Fairview, ST 10017"
+para#1146,PHONE,+91 22 40094400,+91 10000 02
+para#1147,EMAIL,ksh.ipo@nuvama.com,peter.martinez@example.com
+para#1149,EMAIL,customerservice.mb@nuvama.com,peter.lopez@example.com
+para#1150,COMPANY,Lokesh Shah/ Soumavo Sarkar,Redstone Group
+para#1153,ADDRESS,"ICICI Venture House, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400025, Maharashtra, India","118 Cedar Lane, Riverside, ST 10018"
+para#1154,PHONE,+91 22 6807 7100,+91 10000 03
+para#1155,EMAIL,ksh@icicisecurities.com,peter.anderson@example.com
+para#1157,EMAIL,customercare@icicisecurities.com,peter.wilson@example.com
+para#1158,PERSON,Kishan Rastogi/Abhijit Diwan,Peter Thomas
+para#1160,COMPANY,MUFG Intime India Private Limited,Vertex Global Limited
+para#1162,PERSON,Vikhroli,Peter Lee
+para#1162,PERSON,C-101,Peter Martin
+para#1164,EMAIL,kshinternational.ipo@in.mpms.mufg.com,peter.perez@example.com
+para#1166,EMAIL,kshinternational.ipo@in.mpms.mufg.com,peter.perez@example.com
+para#1167,PERSON,Shanti Gopalkrishnan,Peter Thompson
+para#1168,COMPANY,INR000004058,Horizon Manufacturing Ltd.
+para#1169,COMPANY,BID/ OFFER PERIOD,Meridian Group
+para#1173,COMPANY,BID/OFFER OPENS ON,Falcon Enterprises Limited
+para#1176,COMPANY,BID/OFFER CLOSES ON(2,Redstone Group
+para#1181,COMPANY,KSH International Limited,Acme Industries Limited
+para#1186,COMPANY,AoA/Articles of Association or,Ironwood Holdings
+para#1188,COMPANY,Audit Committee,Pinnacle Corp
+para#1191,COMPANY,Kirtane & Pandit LLP,Silverline Corp
+para#1192,COMPANY,Board/ Board of Directors,Cobalt Industries Ltd.
+para#1194,COMPANY,Bonus,Acme Industries Limited
+para#1195,COMPANY,Bonus,Acme Industries Limited
+para#1196,COMPANY,Equity Share,Crestview Industries
+para#1198,COMPANY,Advisory Private Limited,Lakeside Manufacturing
+para#1198,COMPANY,CARE Analytics and,Bluewater Holdings
+para#1198,COMPANY,Advisory Private Limited,Lakeside Manufacturing
+para#1198,COMPANY,CARE Analytics and,Bluewater Holdings
+para#1201,PERSON,Kushal Subbayya Hegde,John Jones
+para#1203,PERSON,Sandesh Bhagwat,John Miller
+para#1205,PERSON,Amod Joshi,John Garcia
+para#1207,PERSON,Sarthak Malvadkar,John Doe
+para#1211,ADDRESS,"The corporate office of our company located at 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India","119 Elm Road, Georgetown, ST 10019"
+para#1213,PERSON,Waterloo Industrial Park VI Private Limited,John Smith
+para#1214,COMPANY,Corporate Social Responsibility Committee,Redstone Group
+para#1214,COMPANY,CSR,Acme Industries Limited
+para#1222,COMPANY,ESOP,Northstar Corporation
+para#1223,COMPANY,KSH Employee Stock Option Scheme 2025,Bluewater Holdings
+para#1225,COMPANY,Rohit Branch,Summit Enterprises Ltd.
+para#1225,COMPANY,Rakhi Branch,Vertex Global Limited
+para#1225,PERSON,Sangeeta Branch,Liam Martin
+para#1225,PERSON,Rajesh Branch,Liam Lee
+para#1225,PERSON,Parents Branch,Liam Perez
+para#1229,PERSON,Waterloo Industrial Park IX,Liam Thompson
+para#1229,PERSON,Waterloo Industrial Park IX B Private Limited,Liam White
+para#1229,PERSON,Waterloo Industrial Park IX Private Limited,Liam Harris
+para#1229,PERSON,Waterloo Industrial Park VIII Private Limited,Liam Sanchez
+para#1229,PERSON,Waterloo Industrial Park VI Private Limited,John Smith
+para#1229,PERSON,Waterloo Industrial Park V Private Limited,John Sanchez
+para#1229,PERSON,Waterloo Industrial Park IV Private Limited,John Clark
+para#1229,PERSON,Waterloo Industrial Park III Private Limited,John Ramirez
+para#1229,PERSON,Waterloo Industrial Park II Private Limited,Liam Clark
+para#1229,PERSON,Waterloo Industrial Park,John Lewis
+para#1229,COMPANY,Electricals Private Limited,Silverline Corp
+para#1229,COMPANY,Kushal Motors,Horizon Manufacturing Ltd.
+para#1229,COMPANY,KSH Integrated Logistics Private Limited,Crestview Industries
+para#1229,COMPANY,KSH Distriparks Private Limited,Meridian Group
+para#1229,COMPANY,KSH Infra Park VI Private Limited,Silverline Corp
+para#1229,COMPANY,KSH Project Management Services Private Limited,Falcon Enterprises Limited
+para#1229,COMPANY,Waterloo Motors Private Limited,Ironwood Holdings
+para#1230,COMPANY,KSH Infra Park IV Private Limited,Horizon Manufacturing Ltd.
+para#1231,COMPANY,Independent Director(s,Crestview Industries
+para#1233,COMPANY,Independent Chartered Engineer,Meridian Group
+para#1234,COMPANY,Lalit Muljibhai Sarvaiya,Cobalt Industries Ltd.
+para#1235,COMPANY,Industry Data Provider/ CareEdge Research,Falcon Enterprises Limited
+para#1236,COMPANY,CARE Analytics,Ironwood Holdings
+para#1237,COMPANY,IPO Committee,Horizon Manufacturing Ltd.
+para#1238,COMPANY,IPO,Pinnacle Corp
+para#1239,COMPANY,Joint,Cobalt Industries Ltd.
+para#1240,PERSON,Rohit Kushal Hegde,John Johnson
+para#1241,PERSON,KMP/ Key Managerial Personnel,Liam Ramirez
+para#1244,PERSON,Rajesh Kushal Hegde,John Williams
+para#1248,COMPANY,MoA/ Memorandum of,Lakeside Manufacturing
+para#1250,COMPANY,Remuneration Committee,Redstone Group
+para#1252,COMPANY,Non-Independent,Acme Industries Limited
+para#1252,COMPANY,Non-Executive,Northstar Corporation
+para#1255,COMPANY,Board of Directors,Northstar Corporation
+para#1256,PERSON,Parents Branch,Liam Perez
+para#1257,COMPANY,Dhaulagiri Family Trust,Vertex Global Limited
+para#1257,COMPANY,Broad Family Trust,Northstar Corporation
+para#1257,PERSON,Pushpa Kushal Hegde,John Brown
+para#1257,PERSON,Kushal Subbayya Hegde,John Jones
+para#1258,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#1261,COMPANY,Makalu Family Trust,Bluewater Holdings
+para#1261,COMPANY,Everest Family Trust,Summit Enterprises Ltd.
+para#1261,COMPANY,Dhaulagiri Family Trust,Vertex Global Limited
+para#1261,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#1261,PERSON,Rohit Kushal Hegde,John Johnson
+para#1261,PERSON,Rajesh Kushal Hegde,John Williams
+para#1261,PERSON,Pushpa Kushal Hegde,John Brown
+para#1261,PERSON,Kushal Subbayya Hegde,John Jones
+para#1262,PERSON,Waterloo Industrial Park VI Private Limited,John Smith
+para#1262,COMPANY,Kanchenjunga Family Trust,Redstone Group
+para#1262,COMPANY,Annapurna Family Trust,Acme Industries Limited
+para#1262,COMPANY,Family Trust,Northstar Corporation
+para#1263,COMPANY,Promoter Selling Shareholders,Pinnacle Corp
+para#1264,PERSON,Rohit Kushal Hegde,John Johnson
+para#1264,PERSON,Rajesh Kushal Hegde,John Williams
+para#1264,PERSON,Pushpa Kushal Hegde,John Brown
+para#1264,PERSON,Kushal Subbayya Hegde,John Jones
+para#1265,PERSON,Promoter Trusts,Liam Lewis
+para#1266,COMPANY,Kanchenjunga Family Trust,Redstone Group
+para#1266,COMPANY,Annapurna Family Trust,Acme Industries Limited
+para#1266,COMPANY,Broad Family Trust,Northstar Corporation
+para#1266,COMPANY,Makalu Family Trust,Bluewater Holdings
+para#1266,COMPANY,Everest Family Trust,Summit Enterprises Ltd.
+para#1266,COMPANY,Dhaulagiri Family Trust,Vertex Global Limited
+para#1267,PERSON,Rajesh Branch,Liam Lee
+para#1268,COMPANY,Everest Family Trust,Summit Enterprises Ltd.
+para#1268,PERSON,Rajesh Kushal Hegde,John Williams
+para#1269,COMPANY,Rakhi Branch,Vertex Global Limited
+para#1270,COMPANY,Annapurna Family Trust,Acme Industries Limited
+para#1270,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#1272,ADDRESS,"The registered office of our Company located at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka-Khed, Pune – 410 501, Maharashtra, India","120 Birchwood Drive, Clinton, ST 10020"
+para#1275,COMPANY,Registrar of Companies/RoC,Bluewater Holdings
+para#1278,COMPANY,ICAI,Pinnacle Corp
+para#1280,COMPANY,Risk Management Committee,Summit Enterprises Ltd.
+para#1282,COMPANY,Rohit Branch,Summit Enterprises Ltd.
+para#1283,COMPANY,Makalu Family Trust,Bluewater Holdings
+para#1283,PERSON,Rohit Kushal Hegde,John Johnson
+para#1284,PERSON,Sangeeta Branch,Liam Martin
+para#1285,COMPANY,Kanchenjunga Family Trust,Redstone Group
+para#1285,PERSON,Sangeeta Ramprasad Rai,Olivia Doe
+para#1287,COMPANY,Board and Shareholders,Vertex Global Limited
+para#1288,COMPANY,Capital Structure – Equity Share Capital History,Silverline Corp
+para#1293,COMPANY,Stakeholders Relationship Committee,Horizon Manufacturing Ltd.
+para#1295,PERSON,Supa Facility,John Anderson
+para#1298,COMPANY,Plot No,Crestview Industries
+para#1300,ADDRESS,"Our manufacturing facility located at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India","121 Willow Court, Madison, ST 10021"
+para#1302,PERSON,Taluka Khed,Olivia Parker
+para#1302,PERSON,Village Khalumbre,Olivia Smith
+para#1302,COMPANY,Chakan Industrial Area,Meridian Group
+para#1302,COMPANY,Plot No,Crestview Industries
+para#1304,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#1309,PERSON,Acknowledgement Slip,Olivia Johnson
+para#1313,COMPANY,Bidders,Lakeside Manufacturing
+para#1314,COMPANY,Allotment Advice,Falcon Enterprises Limited
+para#1315,COMPANY,Allotted the Equity Shares,Ironwood Holdings
+para#1315,COMPANY,Bidders,Lakeside Manufacturing
+para#1315,COMPANY,Allotment,Meridian Group
+para#1319,PERSON,Bid,Peter Brown
+para#1322,COMPANY,Anchor Investor Application Form,Pinnacle Corp
+para#1323,COMPANY,Allotment,Meridian Group
+para#1325,COMPANY,Bids,Crestview Industries
+para#1325,COMPANY,Bids,Crestview Industries
+para#1330,COMPANY,Allotted to Anchor Investors,Cobalt Industries Ltd.
+para#1334,COMPANY,Working Days,Vertex Global Limited
+para#1334,COMPANY,Anchor Investor(s,Lakeside Manufacturing
+para#1336,COMPANY,"Mutual Funds, Life Insurance Companies and Pension Funds",Redstone Group
+para#1336,COMPANY,Bids,Crestview Industries
+para#1336,COMPANY,Life Insurance Companies and Pension Funds,Acme Industries Limited
+para#1337,PERSON,Mutual Funds,Peter Smith
+para#1338,COMPANY,ASBA,Vertex Global Limited
+para#1339,PERSON,UPI Bidders,Peter Jones
+para#1339,COMPANY,SCSB,Redstone Group
+para#1339,PERSON,Bid,Peter Brown
+para#1339,COMPANY,ASBA Bidders,Vertex Global Limited
+para#1341,COMPANY,ASBA Account,Falcon Enterprises Limited
+para#1342,COMPANY,SCSB,Redstone Group
+para#1347,COMPANY,Allotment,Meridian Group
+para#1347,COMPANY,ASBA Bidders,Vertex Global Limited
+para#1348,COMPANY,ASM,Acme Industries Limited
+para#1352,COMPANY,Basis of Allotment,Cobalt Industries Ltd.
+para#1353,COMPANY,Bidders,Lakeside Manufacturing
+para#1355,COMPANY,ASBA Bidder,Northstar Corporation
+para#1358,COMPANY,Bids,Crestview Industries
+para#1365,COMPANY,Bid/Offer Closing Date,Bluewater Holdings
+para#1366,COMPANY,Syndicate,Meridian Group
+para#1366,COMPANY,Bid/Offer Closing Date,Bluewater Holdings
+para#1366,COMPANY,Loksatta,Horizon Manufacturing Ltd.
+para#1366,COMPANY,Jansatta,Crestview Industries
+para#1366,COMPANY,Financial Express,Meridian Group
+para#1366,COMPANY,Bids,Crestview Industries
+para#1366,COMPANY,Bids,Crestview Industries
+para#1368,COMPANY,Offer Closing Date,Summit Enterprises Ltd.
+para#1370,COMPANY,Bid/Offer Opening Date,Vertex Global Limited
+para#1371,COMPANY,Financial Express,Meridian Group
+para#1371,COMPANY,Bids,Crestview Industries
+para#1371,COMPANY,Designated Intermediaries,Redstone Group
+para#1371,COMPANY,Bids,Crestview Industries
+para#1375,COMPANY,Loksatta,Horizon Manufacturing Ltd.
+para#1375,COMPANY,Jansatta,Crestview Industries
+para#1377,COMPANY,Offer Period,Silverline Corp
+para#1378,COMPANY,Bidders,Lakeside Manufacturing
+para#1378,COMPANY,Working Days,Vertex Global Limited
+para#1378,COMPANY,Bids,Crestview Industries
+para#1378,COMPANY,Bidders,Lakeside Manufacturing
+para#1378,COMPANY,Bids,Crestview Industries
+para#1384,COMPANY,Designated,Crestview Industries
+para#1384,COMPANY,Designated Intermediaries,Redstone Group
+para#1385,COMPANY,Designated CDP Locations,Horizon Manufacturing Ltd.
+para#1385,COMPANY,SCSB Branches,Crestview Industries
+para#1387,PERSON,Schedule XIII,Olivia Williams
+para#1389,COMPANY,Nuvama Wealth Management Limited,Lakeside Manufacturing
+para#1391,COMPANY,ASBA Forms,Falcon Enterprises Limited
+para#1391,PERSON,UPI Bidders,Peter Jones
+para#1393,COMPANY,Confirmation of Allocation Note,Meridian Group
+para#1394,COMPANY,Notice,Falcon Enterprises Limited
+para#1395,PERSON,Cap Price,Emma Ramirez
+para#1396,COMPANY,Bids,Crestview Industries
+para#1396,PERSON,Offer Price,Olivia Brown
+para#1398,COMPANY,Bankers,Ironwood Holdings
+para#1398,COMPANY,inter alia,Silverline Corp
+para#1398,COMPANY,UPI Circulars,Pinnacle Corp
+para#1398,COMPANY,Bankers,Ironwood Holdings
+para#1398,COMPANY,Registrar,Silverline Corp
+para#1399,COMPANY,Bidders,Lakeside Manufacturing
+para#1401,COMPANY,Depositories,Cobalt Industries Ltd.
+para#1402,COMPANY,CDP,Northstar Corporation
+para#1403,PERSON,SEBI ICDR,Peter Doe
+para#1403,PERSON,SEBI ICDR,Peter Doe
+para#1403,COMPANY,CFD,Lakeside Manufacturing
+para#1403,COMPANY,CIR,Redstone Group
+para#1403,COMPANY,Bids,Crestview Industries
+para#1407,PERSON,Bid,Peter Brown
+para#1408,PERSON,Bid,Peter Brown
+para#1408,COMPANY,Non-Institutional Investors,Falcon Enterprises Limited
+para#1410,COMPANY,UPI ID,Falcon Enterprises Limited
+para#1411,COMPANY,Designated CDP Locations,Horizon Manufacturing Ltd.
+para#1412,COMPANY,Designated CDP Locations,Horizon Manufacturing Ltd.
+para#1412,PERSON,Bidders,Olivia Jones
+para#1414,COMPANY,Designated Date,Acme Industries Limited
+para#1417,COMPANY,Designated Intermediaries,Redstone Group
+para#1418,COMPANY,Designated Intermediaries,Redstone Group
+para#1418,COMPANY,SCSB,Redstone Group
+para#1418,COMPANY,UPI Bidders,Horizon Manufacturing Ltd.
+para#1418,COMPANY,ASBA Forms,Falcon Enterprises Limited
+para#1422,COMPANY,Syndicate,Meridian Group
+para#1422,COMPANY,Designated Intermediaries,Redstone Group
+para#1422,PERSON,UPI Bidders,Peter Jones
+para#1422,COMPANY,UPI Mandate Request,Northstar Corporation
+para#1422,PERSON,UPI Bidders,Peter Jones
+para#1422,COMPANY,ASBA Forms,Falcon Enterprises Limited
+para#1424,COMPANY,Syndicate,Meridian Group
+para#1424,COMPANY,Designated Intermediaries,Redstone Group
+para#1424,COMPANY,ASBA Forms,Falcon Enterprises Limited
+para#1426,COMPANY,Designated RTA Locations,Bluewater Holdings
+para#1427,COMPANY,Designated RTA Locations,Bluewater Holdings
+para#1427,COMPANY,UPI,Summit Enterprises Ltd.
+para#1427,COMPANY,ASBA Forms,Falcon Enterprises Limited
+para#1427,COMPANY,UPI Bidder,Vertex Global Limited
+para#1428,COMPANY,www.bseindia.com,Silverline Corp
+para#1429,COMPANY,Designated SCSB Branches,Horizon Manufacturing Ltd.
+para#1430,COMPANY,SCSBs,Silverline Corp
+para#1434,COMPANY,Draft Red Herring Prospectus/,Crestview Industries
+para#1443,COMPANY,Escrow Collection Bank,Meridian Group
+para#1444,COMPANY,HDFC Bank Limited,Falcon Enterprises Limited
+para#1446,COMPANY,Bids,Crestview Industries
+para#1447,PERSON,Floor Price,Liam Jackson
+para#1449,COMPANY,Bids,Crestview Industries
+para#1449,PERSON,Offer Price,Olivia Brown
+para#1450,COMPANY,Fraudulent Borrower,Falcon Enterprises Limited
+para#1459,COMPANY,GSM,Ironwood Holdings
+para#1462,COMPANY,Fresh,Pinnacle Corp
+para#1467,COMPANY,Monitoring Agency,Redstone Group
+para#1468,COMPANY,CARE Ratings Limited,Bluewater Holdings
+para#1469,COMPANY,Monitoring Agency Agreement,Cobalt Industries Ltd.
+para#1470,COMPANY,Monitoring Agency,Redstone Group
+para#1472,COMPANY,Bids,Crestview Industries
+para#1472,COMPANY,Mutual Funds,Lakeside Manufacturing
+para#1478,COMPANY,Equity Shares Allotted,Lakeside Manufacturing
+para#1479,COMPANY,Non-Institutional Investors/,Redstone Group
+para#1480,COMPANY,Retail Individual Investors,Ironwood Holdings
+para#1481,COMPANY,Non-Institutional Portion,Ironwood Holdings
+para#1482,COMPANY,Non-Institutional Investors,Falcon Enterprises Limited
+para#1488,COMPANY,Bids,Crestview Industries
+para#1488,COMPANY,Institutional Investors,Acme Industries Limited
+para#1489,COMPANY,Non-Resident,Northstar Corporation
+para#1491,PERSON,Nuvama,Olivia Garcia
+para#1492,COMPANY,Nuvama Wealth Management Limited,Lakeside Manufacturing
+para#1499,PERSON,Rohit Kushal Hegde,John Johnson
+para#1499,PERSON,Rajesh Kushal Hegde,John Williams
+para#1499,PERSON,Pushpa Kushal Hegde,John Brown
+para#1499,PERSON,Kushal Subbayya Hegde,John Jones
+para#1502,COMPANY,Allotted to Anchor Investors,Cobalt Industries Ltd.
+para#1502,COMPANY,Bidders,Lakeside Manufacturing
+para#1509,COMPANY,Pension Fund,Bluewater Holdings
+para#1513,COMPANY,Equity Share,Crestview Industries
+para#1514,COMPANY,Working Days,Vertex Global Limited
+para#1514,COMPANY,Loksatta,Horizon Manufacturing Ltd.
+para#1514,COMPANY,Jansatta,Crestview Industries
+para#1514,COMPANY,Financial,Summit Enterprises Ltd.
+para#1520,PERSON,corrigenda thereto,Olivia Miller
+para#1522,COMPANY,Bank Limited,Ironwood Holdings
+para#1524,COMPANY,Bank,Vertex Global Limited
+para#1526,COMPANY,ICDR,Vertex Global Limited
+para#1527,COMPANY,Bids,Crestview Industries
+para#1528,COMPANY,QIB Bidder(s,Silverline Corp
+para#1532,COMPANY,Red Herring Prospectus/,Horizon Manufacturing Ltd.
+para#1533,PERSON,corrigenda thereto,Olivia Miller
+para#1534,COMPANY,Working Days,Vertex Global Limited
+para#1535,PERSON,corrigenda thereto,Olivia Miller
+para#1538,COMPANY,Refund Bank,Crestview Industries
+para#1539,COMPANY,HDFC Bank Limited,Falcon Enterprises Limited
+para#1541,COMPANY,CIR,Redstone Group
+para#1541,COMPANY,ICDR Master Circular,Horizon Manufacturing Ltd.
+para#1541,COMPANY,Bids,Crestview Industries
+para#1541,COMPANY,Syndicate,Meridian Group
+para#1542,PERSON,Share Transfer Agents,Emma Johnson
+para#1544,COMPANY,Designated RTA Locations,Bluewater Holdings
+para#1546,COMPANY,Registrar,Silverline Corp
+para#1546,COMPANY,Registrar,Silverline Corp
+para#1547,COMPANY,Registrar,Silverline Corp
+para#1548,COMPANY,MUFG Intime India Private Limited,Vertex Global Limited
+para#1550,PERSON,Bid,Peter Brown
+para#1550,PERSON,Individual Bidders,Olivia Davis
+para#1552,COMPANY,Bids,Crestview Industries
+para#1552,COMPANY,Retail Individual Investors,Ironwood Holdings
+para#1554,COMPANY,Revision Form(s,Meridian Group
+para#1554,COMPANY,Bidders,Lakeside Manufacturing
+para#1555,COMPANY,Retail Individual Investors,Ironwood Holdings
+para#1555,COMPANY,Bids,Crestview Industries
+para#1555,COMPANY,Non-Institutional Investors,Falcon Enterprises Limited
+para#1555,PERSON,QIB Bidders,Olivia Rodriguez
+para#1556,COMPANY,Bids,Crestview Industries
+para#1560,COMPANY,ASBA,Vertex Global Limited
+para#1564,COMPANY,MUFG Intime India Private Limited,Vertex Global Limited
+para#1566,COMPANY,each Promoter Selling Shareholder,Falcon Enterprises Limited
+para#1567,COMPANY,Allottees,Ironwood Holdings
+para#1569,COMPANY,Bidders,Lakeside Manufacturing
+para#1569,COMPANY,Syndicate,Meridian Group
+para#1572,COMPANY,Bank Limited,Ironwood Holdings
+para#1572,COMPANY,HDFC Bank Limited,Falcon Enterprises Limited
+para#1574,COMPANY,National Stock Exchange of,Falcon Enterprises Limited
+para#1574,COMPANY,BSE Limited,Pinnacle Corp
+para#1575,COMPANY,STT,Cobalt Industries Ltd.
+para#1579,COMPANY,Syndicate,Meridian Group
+para#1579,COMPANY,Bid cum Application Forms,Crestview Industries
+para#1579,COMPANY,Registrar,Silverline Corp
+para#1582,COMPANY,Nuvama Wealth Management Limited,Lakeside Manufacturing
+para#1585,COMPANY,Syndicate,Meridian Group
+para#1592,COMPANY,Underwriters,Pinnacle Corp
+para#1593,COMPANY,UPI,Summit Enterprises Ltd.
+para#1594,COMPANY,NPCI,Lakeside Manufacturing
+para#1595,COMPANY,UPI Bidder(s,Redstone Group
+para#1596,COMPANY,Non-Institutional Investors,Falcon Enterprises Limited
+para#1596,COMPANY,Retail Individual Investors,Ironwood Holdings
+para#1597,PERSON,UPI ID,Peter Garcia
+para#1597,COMPANY,UPI,Summit Enterprises Ltd.
+para#1597,PERSON,SEBI ICDR,Peter Doe
+para#1600,COMPANY,ICDR Master Circular,Horizon Manufacturing Ltd.
+para#1602,COMPANY,UPI ID,Falcon Enterprises Limited
+para#1603,COMPANY,NPCI,Lakeside Manufacturing
+para#1604,COMPANY,UPI Mandate Request,Northstar Corporation
+para#1605,COMPANY,UPI,Summit Enterprises Ltd.
+para#1606,COMPANY,Allotment,Meridian Group
+para#1608,COMPANY,Bids,Crestview Industries
+para#1608,PERSON,UPI Bidders,Peter Jones
+para#1610,COMPANY,Password,Acme Industries Limited
+para#1611,PERSON,Wilful Defaulter,Olivia Martinez
+para#1618,COMPANY,AIF,Northstar Corporation
+para#1619,COMPANY,Alternate Investment Fund,Bluewater Holdings
+para#1623,COMPANY,BSE Limited,Pinnacle Corp
+para#1626,COMPANY,AIF,Northstar Corporation
+para#1630,COMPANY,AIF,Northstar Corporation
+para#1639,COMPANY,Central Depository Services,Summit Enterprises Ltd.
+para#1640,COMPANY,CESTAT,Vertex Global Limited
+para#1646,COMPANY,CSR,Acme Industries Limited
+para#1652,COMPANY,Depositories,Cobalt Industries Ltd.
+para#1653,COMPANY,NSDL,Silverline Corp
+para#1658,PERSON,DP/ Depository Participant,Olivia Hernandez
+para#1666,COMPANY,FDI,Horizon Manufacturing Ltd.
+para#1670,COMPANY,FEMA Rules,Crestview Industries
+para#1671,COMPANY,Foreign Exchange Management,Meridian Group
+para#1674,PERSON,Bill,Olivia Lopez
+para#1675,PERSON,Bill,Olivia Lopez
+para#1682,COMPANY,FVCI,Falcon Enterprises Limited
+para#1683,COMPANY,Venture Capital Investors,Ironwood Holdings
+para#1684,COMPANY,GoI / Central Government,Pinnacle Corp
+para#1688,COMPANY,HUF,Cobalt Industries Ltd.
+para#1690,COMPANY,IATF,Lakeside Manufacturing
+para#1691,COMPANY,International Automotive Task Force,Redstone Group
+para#1694,COMPANY,ICAI,Pinnacle Corp
+para#1697,COMPANY,International Financial Reporting Standards,Acme Industries Limited
+para#1701,COMPANY,Companies (Indian Accounting Standards) Rules,Northstar Corporation
+para#1701,COMPANY,Indian Accounting Standard,Cobalt Industries Ltd.
+para#1706,COMPANY,IPO,Pinnacle Corp
+para#1708,COMPANY,ISO,Bluewater Holdings
+para#1709,COMPANY,International Organization for Standards,Summit Enterprises Ltd.
+para#1710,COMPANY,IST,Vertex Global Limited
+para#1711,COMPANY,Indian Standard Time,Falcon Enterprises Limited
+para#1714,COMPANY,LEI,Silverline Corp
+para#1724,COMPANY,NACH,Horizon Manufacturing Ltd.
+para#1725,COMPANY,National Automated Clearing House,Crestview Industries
+para#1726,PERSON,NEFT,Olivia Wilson
+para#1728,COMPANY,Non-Resident,Northstar Corporation
+para#1731,COMPANY,National Payments Corporation of India,Meridian Group
+para#1736,PERSON,NRO Account,Olivia Anderson
+para#1738,COMPANY,NSDL,Silverline Corp
+para#1739,COMPANY,National Securities Depository Limited,Falcon Enterprises Limited
+para#1741,COMPANY,National Stock Exchange of,Falcon Enterprises Limited
+para#1747,COMPANY,OCI,Ironwood Holdings
+para#1753,COMPANY,PAT,Pinnacle Corp
+para#1756,COMPANY,Reserve Bank of India,Cobalt Industries Ltd.
+para#1762,COMPANY,Reserve Bank of India,Cobalt Industries Ltd.
+para#1763,COMPANY,RTGS,Lakeside Manufacturing
+para#1766,COMPANY,Securities Contracts (Regulation) Act,Redstone Group
+para#1768,COMPANY,Securities Contracts (Regulation) Rules,Acme Industries Limited
+para#1770,COMPANY,Securities and Exchange Board of India,Bluewater Holdings
+para#1772,COMPANY,Securities and Exchange Board of India Act,Northstar Corporation
+para#1774,COMPANY,Securities and Exchange Board of India (Alternative Investment Funds) Regulations,Bluewater Holdings
+para#1776,COMPANY,Securities and Exchange Board of India,Bluewater Holdings
+para#1778,COMPANY,Securities and Exchange Board of India,Bluewater Holdings
+para#1780,COMPANY,Securities and Exchange Board of India (Foreign Venture Capital Investors,Summit Enterprises Ltd.
+para#1781,COMPANY,ICDR Master Circular,Horizon Manufacturing Ltd.
+para#1782,COMPANY,ICDR Master Circular,Horizon Manufacturing Ltd.
+para#1784,COMPANY,Issue of Capital,Summit Enterprises Ltd.
+para#1784,COMPANY,Securities and Exchange Board of India,Bluewater Holdings
+para#1786,COMPANY,Securities and Exchange Board of India,Bluewater Holdings
+para#1788,COMPANY,Securities and Exchange Board of India,Bluewater Holdings
+para#1792,COMPANY,Securities and Exchange Board of India,Bluewater Holdings
+para#1794,COMPANY,Securities and Exchange Board of India,Bluewater Holdings
+para#1795,COMPANY,VCF Regulations,Vertex Global Limited
+para#1796,COMPANY,Venture Capital Fund,Silverline Corp
+para#1796,COMPANY,Securities and Exchange Board of India,Bluewater Holdings
+para#1797,COMPANY,State Government,Horizon Manufacturing Ltd.
+para#1799,COMPANY,U.S. Securities Act,Crestview Industries
+para#1800,COMPANY,United States Securities Act,Meridian Group
+para#1805,COMPANY,USD,Falcon Enterprises Limited
+para#1806,COMPANY,United States Dollars,Silverline Corp
+para#1808,PERSON,SEBI AIF,Olivia Thomas
+para#1808,PERSON,SEBI VCF,Olivia Taylor
+para#1817,COMPANY,AAS,Ironwood Holdings
+para#1819,COMPANY,ACC,Pinnacle Corp
+para#1821,COMPANY,ADAS,Cobalt Industries Ltd.
+para#1825,COMPANY,BCD,Lakeside Manufacturing
+para#1828,COMPANY,Battery Energy Storage System,Redstone Group
+para#1829,COMPANY,BIS,Acme Industries Limited
+para#1830,COMPANY,Bureau of Indian Standards,Northstar Corporation
+para#1833,COMPANY,BTA,Bluewater Holdings
+para#1837,COMPANY,CEA,Summit Enterprises Ltd.
+para#1838,COMPANY,Central Electricity Authority,Vertex Global Limited
+para#1839,COMPANY,CERC,Silverline Corp
+para#1840,COMPANY,Central Electricity Regulatory Commission,Horizon Manufacturing Ltd.
+para#1841,COMPANY,CKM,Crestview Industries
+para#1842,PERSON,Circuit Kilometers,Olivia Moore
+para#1843,COMPANY,CTC,Lakeside Manufacturing
+para#1844,COMPANY,Continuous Transposed Conductors,Meridian Group
+para#1845,COMPANY,CUF,Falcon Enterprises Limited
+para#1847,COMPANY,DDUGJY,Ironwood Holdings
+para#1848,PERSON,Gram Jyoti,Olivia Jackson
+para#1849,COMPANY,DFI,Pinnacle Corp
+para#1850,COMPANY,Development Finance Institution,Cobalt Industries Ltd.
+para#1851,COMPANY,DFIA,Lakeside Manufacturing
+para#1854,COMPANY,Diesel Generators,Redstone Group
+para#1856,COMPANY,Taxes,Acme Industries Limited
+para#1856,COMPANY,Earnings Before Interest,Northstar Corporation
+para#1859,COMPANY,EMIS,Bluewater Holdings
+para#1860,COMPANY,Education Management Information System,Summit Enterprises Ltd.
+para#1861,COMPANY,EPCG,Vertex Global Limited
+para#1862,COMPANY,Export Promotion Capital Goods,Silverline Corp
+para#1865,COMPANY,FAME,Horizon Manufacturing Ltd.
+para#1869,COMPANY,FHP,Crestview Industries
+para#1870,COMPANY,Fractional Horsepower,Meridian Group
+para#1871,COMPANY,FRE,Falcon Enterprises Limited
+para#1873,COMPANY,FSA,Ironwood Holdings
+para#1875,COMPANY,FTA,Pinnacle Corp
+para#1880,COMPANY,Gross National Disposable Income,Cobalt Industries Ltd.
+para#1881,COMPANY,GVA,Lakeside Manufacturing
+para#1885,PERSON,GWH,Olivia Martin
+para#1886,PERSON,Gigawatt-Hour,Olivia Lee
+para#1890,PERSON,Air Conditioning,Olivia Perez
+para#1891,COMPANY,HVDC,Redstone Group
+para#1893,COMPANY,IATF,Lakeside Manufacturing
+para#1894,COMPANY,International Automotive Task Force,Redstone Group
+para#1896,COMPANY,Internal Combustion Engine,Acme Industries Limited
+para#1897,COMPANY,IEA,Northstar Corporation
+para#1898,COMPANY,International Energy Agency,Bluewater Holdings
+para#1900,COMPANY,Extra Budgetary Resources,Summit Enterprises Ltd.
+para#1901,COMPANY,IEC,Vertex Global Limited
+para#1902,COMPANY,International Electrotechnical Commission,Silverline Corp
+para#1905,COMPANY,IMF,Horizon Manufacturing Ltd.
+para#1906,COMPANY,International Monetary Fund,Crestview Industries
+para#1908,COMPANY,Integrated Power Development Scheme,Meridian Group
+para#1910,COMPANY,Inter-State Transmission System,Falcon Enterprises Limited
+para#1913,COMPANY,LPG,Ironwood Holdings
+para#1918,COMPANY,Ministry of Statistics,Pinnacle Corp
+para#1919,COMPANY,MVA,Cobalt Industries Ltd.
+para#1920,PERSON,Mega Volt-Amperes,Olivia Thompson
+para#1922,PERSON,Megawatt,Olivia White
+para#1923,COMPANY,MWW,Lakeside Manufacturing
+para#1926,COMPANY,National Electric Mobility Mission Plan,Redstone Group
+para#1927,COMPANY,NEP,Acme Industries Limited
+para#1928,COMPANY,National Electricity Plan,Northstar Corporation
+para#1929,COMPANY,NIP,Bluewater Holdings
+para#1932,COMPANY,National Monetization Pipeline,Summit Enterprises Ltd.
+para#1935,COMPANY,OTG,Vertex Global Limited
+para#1937,COMPANY,PAT,Pinnacle Corp
+para#1940,COMPANY,Private Final Consumption Expenditure,Silverline Corp
+para#1941,COMPANY,PLI,Horizon Manufacturing Ltd.
+para#1943,PERSON,PMAY,Olivia Harris
+para#1944,COMPANY,Pradhan Mantri,Crestview Industries
+para#1946,COMPANY,Utthaan Mahabhiyan Yojana,Meridian Group
+para#1946,PERSON,Kisan Urja Suraksha,Olivia Sanchez
+para#1946,COMPANY,Pradhan Mantri,Crestview Industries
+para#1948,PERSON,Photo Voltaic,Olivia Clark
+para#1950,COMPANY,Precision Wires India Limited,Falcon Enterprises Limited
+para#1951,COMPANY,QSR,Ironwood Holdings
+para#1952,COMPANY,Quick Service Restaurants,Pinnacle Corp
+para#1954,COMPANY,Reserve Bank of India,Cobalt Industries Ltd.
+para#1955,COMPANY,RDSS,Cobalt Industries Ltd.
+para#1960,COMPANY,Capital Employed,Acme Industries Limited
+para#1962,COMPANY,Exported Products,Lakeside Manufacturing
+para#1963,COMPANY,RoHS,Redstone Group
+para#1964,COMPANY,Restriction of Hazardous Substances,Acme Industries Limited
+para#1965,COMPANY,RPO,Northstar Corporation
+para#1967,COMPANY,RRTS,Bluewater Holdings
+para#1969,COMPANY,SAE,Summit Enterprises Ltd.
+para#1971,COMPANY,SECI,Vertex Global Limited
+para#1972,COMPANY,Solar Energy Corporation of India Limited,Silverline Corp
+para#1979,COMPANY,W&C,Horizon Manufacturing Ltd.
+para#1981,COMPANY,WEO,Crestview Industries
+para#1990,COMPANY,Operations,Meridian Group
+para#1994,PERSON,B.  Non-GAAP Measures,Olivia Ramirez
+para#2002,COMPANY,Operations,Meridian Group
+para#2006,COMPANY,Net Debt/ Equity,Falcon Enterprises Limited
+para#2008,COMPANY,Net Working Capital Days,Ironwood Holdings
+para#2010,COMPANY,COGS,Falcon Enterprises Limited
+para#2011,PERSON,PAT CAGR,Olivia Lewis
+para#2012,COMPANY,PAT,Pinnacle Corp
+para#2012,PERSON,PAT CAGR,Olivia Lewis
+para#2014,PERSON,PAT Margin,Noah Doe
+para#2018,COMPANY,Capital Employed,Acme Industries Limited
+para#2020,COMPANY,ROE,Pinnacle Corp
+para#2021,COMPANY,Total	Equity,Cobalt Industries Ltd.
+para#2021,COMPANY,PAT,Pinnacle Corp
+para#2023,COMPANY,Operations,Meridian Group
+para#2024,PERSON,C.  Operational,Noah Parker
+para#2045,COMPANY,EUR,Lakeside Manufacturing
+para#2068,COMPANY,Supa Facility,Cobalt Industries Ltd.
+para#2072,COMPANY,Supa Facility,Cobalt Industries Ltd.
+para#2086,COMPANY,Equity Share,Crestview Industries
+para#2088,COMPANY,Equity Share,Crestview Industries
+para#2092,PERSON,Kushal Subbayya Hegde,John Jones
+para#2098,PERSON,Pushpa Kushal Hegde,John Brown
+para#2104,PERSON,Rajesh Kushal Hegde,John Williams
+para#2110,PERSON,Kushal Hegde,Noah Smith
+para#2116,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#2122,COMPANY,Dhaulagiri Family Trust,Vertex Global Limited
+para#2128,COMPANY,Everest Family Trust,Summit Enterprises Ltd.
+para#2134,COMPANY,Makalu Family Trust,Bluewater Holdings
+para#2140,COMPANY,Broad Family Trust,Northstar Corporation
+para#2146,COMPANY,Annapurna Family Trust,Acme Industries Limited
+para#2152,COMPANY,Kanchenjunga Family Trust,Redstone Group
+para#2162,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#2165,PERSON,Rajesh Hegde,Noah Johnson
+para#2200,COMPANY,post-Offer Equity Share,Redstone Group
+para#2204,COMPANY,Equity Share,Crestview Industries
+para#2208,COMPANY,Kushal	Subbayya Hegde,Acme Industries Limited
+para#2229,COMPANY,post-Offer Equity Share,Redstone Group
+para#2232,COMPANY,post-Offer Equity Share,Redstone Group
+para#2233,COMPANY,capital (%,Northstar Corporation
+para#2234,PERSON,Kushal Hegde,Noah Smith
+para#2241,PERSON,Rajesh	Kushal Hegde,Noah Williams
+para#2248,PERSON,Kushal Hegde,Noah Smith
+para#2255,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#2262,COMPANY,Dhaulagiri Family Trust,Vertex Global Limited
+para#2276,COMPANY,Makalu	Family Trust,Bluewater Holdings
+para#2283,COMPANY,Broad Family Trust,Northstar Corporation
+para#2290,COMPANY,Annapurna Family Trust,Acme Industries Limited
+para#2297,COMPANY,Kanchenjunga Family Trust,Redstone Group
+para#2311,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#2314,PERSON,Rajesh Hegde,Noah Johnson
+para#2336,COMPANY,Malabar India Fund Limited,Summit Enterprises Ltd.
+para#2343,PERSON,Rupal K. Sancheti,Noah Brown
+para#2350,PERSON,Salil Ajay Bhargava,Noah Jones
+para#2357,PERSON,Ajay Menon,Noah Garcia
+para#2364,PERSON,Ajay Menon,Noah Garcia
+para#2590,PERSON,Kushal Electricals,Noah Miller
+para#2602,COMPANY,Waterloo Motors,Vertex Global Limited
+para#2614,COMPANY,KSH,Northstar Corporation
+para#2616,COMPANY,Private Limited,Silverline Corp
+para#2627,COMPANY,Parijat Foundation,Horizon Manufacturing Ltd.
+para#2639,COMPANY,KSH,Northstar Corporation
+para#2664,PERSON,Key Managerial,Noah Davis
+para#2676,PERSON,Key Managerial,Noah Davis
+para#2690,COMPANY,Independent Directors,Ironwood Holdings
+para#2712,PERSON,Kushal Subbayya Hegde,John Jones
+para#2718,PERSON,Pushpa Kushal Hegde,John Brown
+para#2721,PERSON,Rajesh Kushal Hegde,John Williams
+para#2724,PERSON,Kushal Hegde,Noah Smith
+para#2727,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#2730,COMPANY,Dhaulagiri Family Trust,Vertex Global Limited
+para#2733,COMPANY,Everest Family Trust,Summit Enterprises Ltd.
+para#2736,COMPANY,Makalu Family Trust,Bluewater Holdings
+para#2739,COMPANY,Broad Family Trust,Northstar Corporation
+para#2742,COMPANY,Annapurna Family Trust,Acme Industries Limited
+para#2745,COMPANY,Kanchenjunga Family Trust,Redstone Group
+para#2750,PERSON,Cap Price,Emma Ramirez
+para#2751,COMPANY,Equity Share,Crestview Industries
+para#2764,COMPANY,Equity Share,Crestview Industries
+para#2765,PERSON,Kushal Subbayya Hegde,John Jones
+para#2768,PERSON,Pushpa Kushal Hegde,John Brown
+para#2771,PERSON,Rajesh Kushal Hegde,John Williams
+para#2774,PERSON,Kushal Hegde,Noah Smith
+para#2777,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#2780,COMPANY,Dhaulagiri Family Trust,Vertex Global Limited
+para#2783,COMPANY,Everest Family Trust,Summit Enterprises Ltd.
+para#2786,COMPANY,Makalu Family Trust,Bluewater Holdings
+para#2789,COMPANY,Broad Family Trust,Northstar Corporation
+para#2792,COMPANY,Annapurna Family Trust,Acme Industries Limited
+para#2795,COMPANY,Kanchenjunga Family Trust,Redstone Group
+para#2804,COMPANY,Kushal Subbayya Hegde*^&,Crestview Industries
+para#2809,COMPANY,Kushal Hegde*^&,Meridian Group
+para#2814,PERSON,Rajesh Kushal Hegde*^&,Noah Rodriguez
+para#2819,COMPANY,Rohit Kushal Hegde*^&,Falcon Enterprises Limited
+para#2824,COMPANY,Rakhi Girija Shetty&,Ironwood Holdings
+para#2829,COMPANY,Rakhi Girija Shetty^&,Pinnacle Corp
+para#2834,COMPANY,Dhaulagiri Family Trust&,Cobalt Industries Ltd.
+para#2839,COMPANY,Everest Family Trust&,Lakeside Manufacturing
+para#2844,COMPANY,Makalu Family Trust&,Redstone Group
+para#2849,COMPANY,Broad Family Trust&,Acme Industries Limited
+para#2854,COMPANY,Annapurna Family Trust&,Northstar Corporation
+para#2859,COMPANY,Kanchenjunga Family Trust &,Bluewater Holdings
+para#2864,COMPANY,Promoter Group,Horizon Manufacturing Ltd.
+para#2865,PERSON,Rajesh Hegde,Noah Johnson
+para#2875,COMPANY,Katyayani Balasubramanian&,Summit Enterprises Ltd.
+para#2889,COMPANY,Dhaulagiri Family Trust,Vertex Global Limited
+para#2890,PERSON,Kushal Subbayya Hegde,John Jones
+para#2893,COMPANY,Makalu Family Trust,Bluewater Holdings
+para#2894,PERSON,Kushal Subbayya Hegde,John Jones
+para#2897,COMPANY,Everest Family Trust,Summit Enterprises Ltd.
+para#2898,PERSON,Kushal Subbayya Hegde,John Jones
+para#2901,COMPANY,Kanchenjunga Family Trust,Redstone Group
+para#2902,PERSON,Pushpa Kushal Hegde,John Brown
+para#2905,COMPANY,Annapurna Family Trust,Acme Industries Limited
+para#2906,PERSON,Pushpa Kushal Hegde,John Brown
+para#2909,COMPANY,Broad Family Trust,Northstar Corporation
+para#2910,PERSON,Pushpa Kushal Hegde,John Brown
+para#2938,COMPANY,S. N,Vertex Global Limited
+para#3353,COMPANY,UAE,Silverline Corp
+para#3455,COMPANY,Specialized,Horizon Manufacturing Ltd.
+para#3508,PERSON,"7,559.52",Noah Martinez
+para#3547,COMPANY,MoA,Horizon Manufacturing Ltd.
+para#3553,PERSON,Gopal BO,Noah Hernandez
+para#3553,COMPANY,DM Shetty,Crestview Industries
+para#3553,PERSON,Kushal Hegde,Noah Smith
+para#3557,COMPANY,SA Shetty,Meridian Group
+para#3557,COMPANY,Karunakar Bhandary,Falcon Enterprises Limited
+para#3557,PERSON,Kushal Hegde,Noah Smith
+para#3561,COMPANY,Jayaram Shetty,Ironwood Holdings
+para#3561,PERSON,Kushal Hegde,Noah Smith
+para#3565,PERSON,Karunakar Hegde,Noah Lopez
+para#3565,PERSON,Kushal Hegde,Noah Smith
+para#3569,PERSON,Challan,Noah Wilson
+para#3573,PERSON,Karunakar Hegde,Noah Lopez
+para#3573,PERSON,Karunakar Hegde HUF,Noah Anderson
+para#3577,PERSON,Rajesh Kushal Hegde,John Williams
+para#3582,COMPANY,Shubhkamal Leasing and Investment Private Limited,Pinnacle Corp
+para#3582,PERSON,Kushal Hegde,Noah Smith
+para#3587,PERSON,Karunakar Hegde HUF,Noah Anderson
+para#3587,PERSON,Rohit Hegde,Noah Thomas
+para#3592,COMPANY,Shubhkamal Leasing and Investment Private Limited,Pinnacle Corp
+para#3592,PERSON,Rajesh Kushal Hegde,John Williams
+para#3597,PERSON,Vijay Hegde,Noah Taylor
+para#3597,PERSON,Rajesh Hegde,Noah Johnson
+para#3602,PERSON,Vijay Hegde,Noah Taylor
+para#3602,PERSON,Rohit Hegde,Noah Thomas
+para#3606,PERSON,Rohit Hegde,Noah Thomas
+para#3606,PERSON,Rajesh Hegde,Noah Johnson
+para#3606,PERSON,Kushal Hegde,Noah Smith
+para#3609,COMPANY,MoA,Horizon Manufacturing Ltd.
+para#3618,COMPANY,Hegde,Cobalt Industries Ltd.
+para#3618,PERSON,Rohit Hegde,Noah Thomas
+para#3618,PERSON,Rajesh Hegde,Noah Johnson
+para#3618,PERSON,Kushal Hegde,Noah Smith
+para#3628,COMPANY,Working Capital Days(1,Lakeside Manufacturing
+para#3746,COMPANY,Total Taloja,Redstone Group
+para#3778,COMPANY,Total Chakan Unit,Acme Industries Limited
+para#3802,COMPANY,Total Chakan Unit,Acme Industries Limited
+para#3847,COMPANY,Total Taloja,Redstone Group
+para#3879,COMPANY,Total Chakan Unit,Acme Industries Limited
+para#3903,COMPANY,Total Chakan Unit,Acme Industries Limited
+para#3944,COMPANY,State Insurance,Northstar Corporation
+para#3957,COMPANY,Provident Fund,Bluewater Holdings
+para#4021,COMPANY,Labour Welfare,Summit Enterprises Ltd.
+para#4035,COMPANY,Services Tax&,Vertex Global Limited
+para#4116,COMPANY,Facilities/ Instrument,Silverline Corp
+para#4120,COMPANY,Long Term Bank Facilities,Horizon Manufacturing Ltd.
+para#4126,COMPANY,Short Term Bank Facilities,Crestview Industries
+para#4130,COMPANY,Long Term Bank Facilities,Horizon Manufacturing Ltd.
+para#4136,COMPANY,Short Term Bank Facilities,Crestview Industries
+para#4139,COMPANY,Short Term Bank Facilities,Crestview Industries
+para#4143,COMPANY,Long Term Bank Facilities,Horizon Manufacturing Ltd.
+para#4152,COMPANY,Short Term Bank Facilities,Crestview Industries
+para#4158,COMPANY,SMs,Meridian Group
+para#4178,COMPANY,Operations,Meridian Group
+para#4181,COMPANY,Operations,Meridian Group
+para#4183,COMPANY,Operations,Meridian Group
+para#4185,COMPANY,Operations,Meridian Group
+para#4239,COMPANY,Mutual Funds,Lakeside Manufacturing
+para#4259,COMPANY,post-Offer Equity,Falcon Enterprises Limited
+para#4275,PERSON,Kushal Subbayya Hegde,John Jones
+para#4280,PERSON,Pushpa Kushal Hegde,John Brown
+para#4285,PERSON,Rajesh Kushal Hegde,John Williams
+para#4290,PERSON,Rohit Kushal Hegde,John Johnson
+para#4298,PERSON,Kushal Subbayya Hegde,John Jones
+para#4301,PERSON,Deccan Gymkhana,Noah Moore
+para#4301,COMPANY,PYC,Ironwood Holdings
+para#4301,COMPANY,Deccan Gymkhana Society,Pinnacle Corp
+para#4301,PERSON,Pushpakamal,Noah Jackson
+para#4302,PERSON,Rajesh Kushal Hegde,John Williams
+para#4305,ADDRESS,"12 Buena Monte, NCL co-operative housing society, Panchvati, Pashan, Pune – 411 008, Maharashtra, India","122 Aspen Way, Franklin, ST 10022"
+para#4306,PERSON,Rohit Kushal Hegde,John Johnson
+para#4307,COMPANY,Joint,Cobalt Industries Ltd.
+para#4309,PERSON,Deccan Gymkhana,Noah Moore
+para#4309,PERSON,Shivaji Nagar,Noah Martin
+para#4309,PERSON,Road Lane,Noah Lee
+para#4309,PERSON,"Pushpakamal Apartment,",Noah Perez
+para#4310,COMPANY,Rakhi Girija Shetty,Silverline Corp
+para#4313,COMPANY,Deccan Gymkhana Society,Pinnacle Corp
+para#4313,PERSON,Pushpakamal,Noah Jackson
+para#4314,ADDRESS,"3 Prabhat Road, opposite PYC basketball court, Erandawane, Deccan Gymkhana, Pune – 411 004 Maharashtra, India","123 Magnolia Boulevard, Greenville, ST 10023"
+para#4318,ADDRESS,"Pratik Bunglow, Senapati Bapat Road, behind Sahara Hotel, Shivajinagar, Model Colony, Pune – 411 016, Maharashtra, India","124 Maple Avenue, Springfield, ST 10024"
+para#4319,PERSON,Ajay Shriram Patil,John White
+para#4322,ADDRESS,"602, Gopalkrupa Apartment, Bhonde colony, Prabhat Road, Erandawane, Pune – 411 004, Maharashtra, India","125 Oak Street, Fairview, ST 10025"
+para#4323,PERSON,Kumar Tiwari,Noah Thompson
+para#4326,ADDRESS,"A-259, JK Road, Minal Residency, Huzur, Govindpura, Bhopal – 462 023, Madhya Pradesh, India","126 Cedar Lane, Riverside, ST 10026"
+para#4327,PERSON,Indu Jacob,Noah White
+para#4330,ADDRESS,"A29, Abhimanshree Society, Pashan Road, Pune – 411 008, Maharashtra, India","127 Elm Road, Georgetown, ST 10027"
+para#4336,COMPANY,RHP,Cobalt Industries Ltd.
+para#4339,PERSON,Nuvama,Olivia Garcia
+para#4343,PERSON,Nuvama,Olivia Garcia
+para#4352,COMPANY,I-Sec,Lakeside Manufacturing
+para#4354,COMPANY,Sponsor Banker,Redstone Group
+para#4354,COMPANY,Monitoring Agency,Redstone Group
+para#4357,PERSON,Nuvama,Olivia Garcia
+para#4361,COMPANY,I-Sec,Lakeside Manufacturing
+para#4363,COMPANY,International Institutional Marketing of the Issue,Acme Industries Limited
+para#4368,COMPANY,I-Sec,Lakeside Manufacturing
+para#4370,COMPANY,Domestic Institutional Marketing of the Issue,Northstar Corporation
+para#4374,PERSON,Nuvama,Olivia Garcia
+para#4376,COMPANY,inter alia,Silverline Corp
+para#4380,PERSON,Nuvama,Olivia Garcia
+para#4382,COMPANY,inter alia,Silverline Corp
+para#4389,COMPANY,I-Sec,Lakeside Manufacturing
+para#4393,COMPANY,I-Sec,Lakeside Manufacturing
+para#4397,COMPANY,I-Sec,Lakeside Manufacturing
+para#4399,COMPANY,Sponsor Banks,Bluewater Holdings
+para#4399,COMPANY,Registrar,Silverline Corp
+para#4399,COMPANY,Securities Transaction Tax,Summit Enterprises Ltd.
+para#4399,COMPANY,Bankers,Ironwood Holdings
+para#4402,COMPANY,I-Sec,Lakeside Manufacturing
+para#4406,COMPANY,LLP,Ironwood Holdings
+para#4406,COMPANY,Kirtane & Pandit,Pinnacle Corp
+para#4407,COMPANY,Gopal House,Redstone Group
+para#4407,COMPANY,5th Floor,Lakeside Manufacturing
+para#4408,ADDRESS,"Opposite Harshal Hall, above HDFC Limited Karve Road, Pune – 411 038","128 Birchwood Drive, Clinton, ST 10028"
+para#4410,EMAIL,parag.pansare@kirtanepandit.com,emma.williams@example.com
+para#4411,PHONE,91 20 6729 5100,+91 10000 18
+para#4416,COMPANY,Hingne Tare & Associates Flat No,Vertex Global Limited
+para#4417,EMAIL,hingnetare@gmail.com,noah.harris@example.com
+para#4421,PERSON,Expiry,Noah Sanchez
+para#4434,COMPANY,Offer Price,Crestview Industries
+para#4436,COMPANY,AUTHORISED SHARE CAPITAL(1,Silverline Corp
